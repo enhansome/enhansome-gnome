@@ -88,7 +88,7 @@
 * [Teleprompter](https://flathub.org/apps/io.github.nokse22.teleprompter) - Simple application to read scrolling text from your screen.
 * [Planify](https://flathub.org/apps/io.github.alainm23.planify) - Project and task manager with Todoist support.
 * [Time Tracker](https://flathub.org/apps/com.lynnmichaelmartin.TimeTracker) - Local-first project time tracker with sync option via cloud or network storage (CSV file).
-* [Newelle](https://github.com/qwersyk/Newelle) ⭐ 1,445 | 🐛 20 | 🌐 Python | 📅 2026-08-12 - Virtual assistant (local, based on GPT4All) that interacts with the system by running shell commands and execute Python code.
+* [Newelle](https://github.com/qwersyk/Newelle) ⭐ 1,444 | 🐛 20 | 🌐 Python | 📅 2026-08-12 - Virtual assistant (local, based on GPT4All) that interacts with the system by running shell commands and execute Python code.
 
 ### Well Being
 
@@ -171,7 +171,7 @@
 * [Junction](https://apps.gnome.org/Junction) - Junction lets you choose the application to open files and links. ![GNOME Circle][GNOME Circle]
 * [Impression](https://flathub.org/apps/io.gitlab.adhami3310.Impression) - Bootable driver flasher application ![GNOME Circle][GNOME Circle]
 * [Kooha](https://flathub.org/apps/io.github.seadve.Kooha) - Elegantly record your screen.
-* [Lan Mouse](https://github.com/feschber/lan-mouse) ⭐ 5,127 | 🐛 128 | 🌐 Rust | 📅 2026-06-28 - Mouse and keyboard sharing software (software KVM switch).
+* [Lan Mouse](https://github.com/feschber/lan-mouse) ⭐ 5,131 | 🐛 128 | 🌐 Rust | 📅 2026-06-28 - Mouse and keyboard sharing software (software KVM switch).
 * [Moussam](https://amit9838.github.io/mousam) - Weather application with 7 days forecast from Open-Meteo.com.
 * [Snoop](https://flathub.org/apps/de.philippun1.Snoop) - Application (with Nautilus extension) to search through file contents in a given folder.
 * [Echo](https://flathub.org/apps/io.github.lo2dev.Echo) -  Simple utility to ping websites.
@@ -297,7 +297,7 @@
 
 ### Cursors
 
-* [Bibata](https://github.com/KaizIqbal/Bibata_Cursor) ⭐ 3,927 | 🐛 18 | 🌐 Shell | 📅 2024-06-18 - Silm material-based cursor theme.
+* [Bibata](https://github.com/KaizIqbal/Bibata_Cursor) ⭐ 3,929 | 🐛 18 | 🌐 Shell | 📅 2024-06-18 - Silm material-based cursor theme.
 * [Capitaine Cursors](https://github.com/keeferrourke/capitaine-cursors) ⭐ 1,226 | 🐛 16 | 🌐 Python | 📅 2022-06-05 - An x-cursor theme inspired by macOS and based on KDE Breeze. Designed to be paired with La Capitaine icons.
 * [ComixCursors](https://www.gnome-look.org/p/999996) - X11 mouse theme with a comics feeling.
 
@@ -307,8 +307,8 @@
 * [Adwaita for Steam](https://github.com/tkashkin/Adwaita-for-Steam) ⭐ 1,579 | 🐛 14 | 🌐 CSS | 📅 2026-08-02 - Skin to make Steam look more like a native GNOME app.
 * [Thunderbird GNOME Theme](https://github.com/rafaelmardojai/thunderbird-gnome-theme) ⭐ 421 | 🐛 9 | 🌐 CSS | 📅 2026-04-03 - Integrate Thunderbird into GNOME-based desktop using Adwaita.
 * [Adwaita theme for VS Code](https://github.com/piousdeer/vscode-adwaita) ⭐ 182 | 🐛 12 | 🌐 Python | 📅 2024-08-04 - Dark and light themes for VS Code based on GNOME's look and GNOME Builder's syntax highlighting.
-* [Discord GNOME Theme](https://github.com/ricewind012/discord-gnome-theme) ⭐ 168 | 🐛 5 | 🌐 SCSS | 📅 2026-08-15 - A GNOME theme for Discord, following the Adwaita style & GNOME Human Interface Guidelines.
-* [Obsidian Adwaita Theme](https://github.com/birneee/obsidian-adwaita-theme) ⭐ 162 | 🐛 17 | 🌐 CSS | 📅 2025-09-25 - [Obsidian](https://obsidian.md) theme in the style of GNOME Adwaita.
+* [Discord GNOME Theme](https://github.com/ricewind012/discord-gnome-theme) ⭐ 168 | 🐛 5 | 🌐 SCSS | 📅 2026-08-16 - A GNOME theme for Discord, following the Adwaita style & GNOME Human Interface Guidelines.
+* [Obsidian Adwaita Theme](https://github.com/birneee/obsidian-adwaita-theme) ⭐ 162 | 🐛 16 | 🌐 CSS | 📅 2025-09-25 - [Obsidian](https://obsidian.md) theme in the style of GNOME Adwaita.
 
 ## Community
 
@@ -369,4 +369,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._

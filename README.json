@@ -178,7 +178,7 @@
             "last_commit": "2024-06-18T04:05:14Z",
             "owner": "ful1e5",
             "repo": "Bibata_Cursor",
-            "stars": 3927
+            "stars": 3929
           }
         },
         {
@@ -265,7 +265,7 @@
           "repo_info": {
             "archived": false,
             "language": "SCSS",
-            "last_commit": "2026-08-15T16:03:18Z",
+            "last_commit": "2026-08-16T06:59:38Z",
             "owner": "ricewind012",
             "repo": "discord-gnome-theme",
             "stars": 168
@@ -300,7 +300,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T19:54:11.200Z",
+    "last_updated": "2026-08-16T19:53:01.603Z",
     "original_repository": "Kazhnuz/awesome-gnome",
     "original_repository_sha": "0924daf769d8fb08492b84e76b8d92a8f7e58dcf",
     "enhanced_repository": "enhansome/enhansome-gnome",
