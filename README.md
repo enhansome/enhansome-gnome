@@ -171,7 +171,7 @@
 * [Junction](https://apps.gnome.org/Junction) - Junction lets you choose the application to open files and links. ![GNOME Circle][GNOME Circle]
 * [Impression](https://flathub.org/apps/io.gitlab.adhami3310.Impression) - Bootable driver flasher application ![GNOME Circle][GNOME Circle]
 * [Kooha](https://flathub.org/apps/io.github.seadve.Kooha) - Elegantly record your screen.
-* [Lan Mouse](https://github.com/feschber/lan-mouse) ⭐ 5,139 | 🐛 128 | 🌐 Rust | 📅 2026-06-28 - Mouse and keyboard sharing software (software KVM switch).
+* [Lan Mouse](https://github.com/feschber/lan-mouse) ⭐ 5,140 | 🐛 128 | 🌐 Rust | 📅 2026-06-28 - Mouse and keyboard sharing software (software KVM switch).
 * [Moussam](https://amit9838.github.io/mousam) - Weather application with 7 days forecast from Open-Meteo.com.
 * [Snoop](https://flathub.org/apps/de.philippun1.Snoop) - Application (with Nautilus extension) to search through file contents in a given folder.
 * [Echo](https://flathub.org/apps/io.github.lo2dev.Echo) -  Simple utility to ping websites.
@@ -274,12 +274,12 @@
 
 * [MoreWaita](https://github.com/somepaulo/MoreWaita) ⭐ 1,074 | 🐛 86 | 🌐 Meson | 📅 2026-08-19 - An Adwaita-style icon theme for Gnome Shell.
 * [Pop!](https://github.com/pop-os/icon-theme) ⭐ 217 | 🐛 15 | 🌐 Python | 📅 2024-10-01 - Official icon theme of Pop!\_OS by System76.
-* [GNOME++](https://github.com/Bonandry/gnome-plus) ⭐ 174 | 🐛 9 | 🌐 Shell | 📅 2023-03-03 - Third-party application icons compatible with GNOME's current guidelines.
+* [GNOME++](https://github.com/Bonandry/gnome-plus) ⭐ 173 | 🐛 9 | 🌐 Shell | 📅 2023-03-03 - Third-party application icons compatible with GNOME's current guidelines.
 
 #### Material Icons
 
 * [Paper](https://snwh.org/paper) - Material icon theme.
-* [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) ⭐ 8,023 | 🐛 578 | 🌐 Shell | 📅 2026-08-01 - Material icon theme, initially based on Paper.
+* [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) ⭐ 8,024 | 🐛 578 | 🌐 Shell | 📅 2026-08-01 - Material icon theme, initially based on Paper.
 
 #### Flat Icons
 
@@ -306,7 +306,7 @@
 * [Firefox GNOME Theme](https://github.com/rafaelmardojai/firefox-gnome-theme) ⭐ 3,895 | 🐛 52 | 🌐 CSS | 📅 2026-07-09 - Integrate Firefox into GNOME-based desktop using Adwaita.
 * [Adwaita for Steam](https://github.com/tkashkin/Adwaita-for-Steam) ⭐ 1,580 | 🐛 14 | 🌐 CSS | 📅 2026-08-02 - Skin to make Steam look more like a native GNOME app.
 * [Thunderbird GNOME Theme](https://github.com/rafaelmardojai/thunderbird-gnome-theme) ⭐ 421 | 🐛 9 | 🌐 CSS | 📅 2026-04-03 - Integrate Thunderbird into GNOME-based desktop using Adwaita.
-* [Adwaita theme for VS Code](https://github.com/piousdeer/vscode-adwaita) ⭐ 182 | 🐛 12 | 🌐 Python | 📅 2024-08-04 - Dark and light themes for VS Code based on GNOME's look and GNOME Builder's syntax highlighting.
+* [Adwaita theme for VS Code](https://github.com/piousdeer/vscode-adwaita) ⭐ 181 | 🐛 12 | 🌐 Python | 📅 2024-08-04 - Dark and light themes for VS Code based on GNOME's look and GNOME Builder's syntax highlighting.
 * [Discord GNOME Theme](https://github.com/ricewind012/discord-gnome-theme) ⭐ 168 | 🐛 4 | 🌐 SCSS | 📅 2026-08-19 - A GNOME theme for Discord, following the Adwaita style & GNOME Human Interface Guidelines.
 * [Obsidian Adwaita Theme](https://github.com/birneee/obsidian-adwaita-theme) ⭐ 162 | 🐛 16 | 🌐 CSS | 📅 2025-09-25 - [Obsidian](https://obsidian.md) theme in the style of GNOME Adwaita.
 
