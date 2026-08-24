@@ -48,6 +48,7 @@
 
 ### Internet and Networking
 
+* [Netsleuth](https://github.com/vmkspv/netsleuth) ⭐ 55 | 🐛 1 | 🌐 Python | 📅 2026-07-19 - Utility for the calculation and analysis of IP subnet values.
 * [GNOME Web](https://apps.gnome.org/Epiphany) - Official web browser project of GNOME. ![GNOME Core][GNOME Core]
 * [Fragments](https://apps.gnome.org/Fragments) - BitTorrent client. ![GNOME Circle][GNOME Circle]
 * [Newsflash](https://apps.gnome.org/NewsFlash) - RSS feeds reader. ![GNOME Circle][GNOME Circle]
@@ -65,7 +66,6 @@
 * [Dissent](https://flathub.org/apps/so.libdb.dissent) - Third-party Discord client prioritasing speed over feature completeness (with user theming through CSS).
 * [Tuba](https://apps.gnome.org/Tuba) - Client for federated social networks (Mastodon, GoToSocial, Akkoma). ![GNOME Circle][GNOME Circle]
 * [Pipeline](https://flathub.org/apps/de.schmidhuberj.tubefeeder) - YouTube Client.
-* [Netsleuth](https://github.com/vmkspv/netsleuth) ⭐ 55 | 🐛 1 | 🌐 Python | 📅 2026-07-19 - Utility for the calculation and analysis of IP subnet values.
 * [Turn On](https://codeberg.org/swsnr/turnon) - Utility to send Wake On LAN (WoL) magic packets to devices in a network.
 
 ### Office
@@ -80,6 +80,7 @@
 
 ### Productivity and Time
 
+* [Newelle](https://github.com/qwersyk/Newelle) ⭐ 1,450 | 🐛 23 | 🌐 Python | 📅 2026-08-20 - Virtual assistant (local, based on GPT4All) that interacts with the system by running shell commands and execute Python code.
 * [Solanum](https://apps.gnome.org/Solanum) - Balance working time and break time. ![GNOME Circle][GNOME Circle]
 * [Khronos](https://flathub.org/apps/io.github.lainsce.Khronos) - Log the time it took to do tasks.
 * [Errands](https://apps.gnome.org/List) - Todo application for those who prefer simplicity. ![GNOME Circle][GNOME Circle]
@@ -88,7 +89,6 @@
 * [Teleprompter](https://flathub.org/apps/io.github.nokse22.teleprompter) - Simple application to read scrolling text from your screen.
 * [Planify](https://flathub.org/apps/io.github.alainm23.planify) - Project and task manager with Todoist support.
 * [Time Tracker](https://flathub.org/apps/com.lynnmichaelmartin.TimeTracker) - Local-first project time tracker with sync option via cloud or network storage (CSV file).
-* [Newelle](https://github.com/qwersyk/Newelle) ⭐ 1,449 | 🐛 23 | 🌐 Python | 📅 2026-08-20 - Virtual assistant (local, based on GPT4All) that interacts with the system by running shell commands and execute Python code.
 
 ### Well Being
 
@@ -144,7 +144,7 @@
 ### System and Customization
 
 * [AdwSteamGtk](https://flathub.org/apps/io.github.Foldex.AdwSteamGtk) - [Adwaita for Steam](https://github.com/tkashkin/Adwaita-for-Steam) ⭐ 1,584 | 🐛 16 | 🌐 CSS | 📅 2026-08-02 skin installer.
-* [Dynamic Gnome Wallpapers](https://github.com/manishprivet/dynamic-gnome-wallpapers) ⭐ 502 | 🐛 11 | 🌐 Shell | 📅 2024-11-01 - Gallery of MacOS like dynamic wallpapers, and easy scripts to install them
+* [Dynamic Gnome Wallpapers](https://github.com/manishprivet/dynamic-gnome-wallpapers) ⭐ 503 | 🐛 11 | 🌐 Shell | 📅 2024-11-01 - Gallery of MacOS like dynamic wallpapers, and easy scripts to install them
 * [Luminance](https://github.com/sidevesh/Luminance) ⭐ 177 | 🐛 11 | 🌐 C | 📅 2026-08-09 - Simple application to control brightness of displays (including external) supporting DDC/CI.
 * [Pika Backup](https://apps.gnome.org/PikaBackup) - Simple backups based on borg. ![GNOME Circle][GNOME Circle]
 * [Déjà Dup Backups](https://apps.gnome.org/DejaDup) - Simple backups tool. ![GNOME Circle][GNOME Circle]
@@ -164,6 +164,7 @@
 
 ### Utilities
 
+* [Lan Mouse](https://github.com/feschber/lan-mouse) ⭐ 5,153 | 🐛 129 | 🌐 Rust | 📅 2026-06-28 - Mouse and keyboard sharing software (software KVM switch).
 * [Dialect](https://apps.gnome.org/Dialect) - Translate text. ![GNOME Circle][GNOME Circle]
 * [Audio Sharing](https://apps.gnome.org/AudioSharing) - Share your computer audio. ![GNOME Circle][GNOME Circle]
 * [Boatswain](https://apps.gnome.org/Boatswain) - Control your Elgato Stream Decks. ![GNOME Circle][GNOME Circle]
@@ -171,7 +172,6 @@
 * [Junction](https://apps.gnome.org/Junction) - Junction lets you choose the application to open files and links. ![GNOME Circle][GNOME Circle]
 * [Impression](https://flathub.org/apps/io.gitlab.adhami3310.Impression) - Bootable driver flasher application ![GNOME Circle][GNOME Circle]
 * [Kooha](https://flathub.org/apps/io.github.seadve.Kooha) - Elegantly record your screen.
-* [Lan Mouse](https://github.com/feschber/lan-mouse) ⭐ 5,152 | 🐛 129 | 🌐 Rust | 📅 2026-06-28 - Mouse and keyboard sharing software (software KVM switch).
 * [Moussam](https://amit9838.github.io/mousam) - Weather application with 7 days forecast from Open-Meteo.com.
 * [Snoop](https://flathub.org/apps/de.philippun1.Snoop) - Application (with Nautilus extension) to search through file contents in a given folder.
 * [Echo](https://flathub.org/apps/io.github.lo2dev.Echo) -  Simple utility to ping websites.
@@ -188,6 +188,7 @@
 
 ### Development and Design
 
+* [Escambo](https://github.com/CleoMenezesJr/escambo) ⭐ 145 | 🐛 19 | 🌐 Python | 📅 2024-05-01 - HTTP-based APIs test application.
 * [GNOME Builder](https://apps.gnome.org/Builder) - Official IDE for creating GNOME applications. ![GNOME Core][GNOME Core]
 * [Gaphor](https://gaphor.org) - The simple modeling tool for UML and SysML. ![GNOME Circle][GNOME Circle]
 * [Webfont Kit Generator](https://apps.gnome.org/WebfontKitGenerator) - Create @font-face kits easily. ![GNOME Circle][GNOME Circle]
@@ -201,7 +202,6 @@
 * [Hieroglyphic](https://apps.gnome.org/Hieroglyphic) - Application to search for LaTeX symbols by sketching. ![GNOME Circle][GNOME Circle]
 * [Sysprof](https://apps.gnome.org/Sysprof) - Profile an application or entire system.
 * [DevHelp](https://apps.gnome.org/Devhelp) - Developer tool for browsing and searching API documentation.
-* [Escambo](https://github.com/CleoMenezesJr/escambo) ⭐ 145 | 🐛 19 | 🌐 Python | 📅 2024-05-01 - HTTP-based APIs test application.
 * [Turtle](https://gitlab.gnome.org/philippun1/turtle) - Tool to manage Git repositories within Nautilus by providing emblems and context menus.
 * [Aurea](https://flathub.org/apps/io.github.cleomenezesjr.aurea) - Simple preview banner made to read metainfo files from Flatpak apps and represent them as they would on Flathub.
 * [Exhibit](https://flathub.org/apps/io.github.nokse22.Exhibit) - 3D model previewer based on the F3D library that supports many formats.
@@ -272,14 +272,14 @@
 
 #### Upstream Style
 
-* [MoreWaita](https://github.com/somepaulo/MoreWaita) ⭐ 1,077 | 🐛 87 | 🌐 Meson | 📅 2026-08-19 - An Adwaita-style icon theme for Gnome Shell.
+* [MoreWaita](https://github.com/somepaulo/MoreWaita) ⭐ 1,078 | 🐛 88 | 🌐 Meson | 📅 2026-08-19 - An Adwaita-style icon theme for Gnome Shell.
 * [Pop!](https://github.com/pop-os/icon-theme) ⭐ 217 | 🐛 15 | 🌐 Python | 📅 2024-10-01 - Official icon theme of Pop!\_OS by System76.
-* [GNOME++](https://github.com/Bonandry/gnome-plus) ⭐ 173 | 🐛 9 | 🌐 Shell | 📅 2023-03-03 - Third-party application icons compatible with GNOME's current guidelines.
+* [GNOME++](https://github.com/Bonandry/gnome-plus) ⭐ 174 | 🐛 9 | 🌐 Shell | 📅 2023-03-03 - Third-party application icons compatible with GNOME's current guidelines.
 
 #### Material Icons
 
+* [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) ⭐ 8,033 | 🐛 581 | 🌐 Shell | 📅 2026-08-01 - Material icon theme, initially based on Paper.
 * [Paper](https://snwh.org/paper) - Material icon theme.
-* [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) ⭐ 8,031 | 🐛 581 | 🌐 Shell | 📅 2026-08-01 - Material icon theme, initially based on Paper.
 
 #### Flat Icons
 
@@ -297,16 +297,16 @@
 
 ### Cursors
 
-* [Bibata](https://github.com/KaizIqbal/Bibata_Cursor) ⭐ 3,944 | 🐛 18 | 🌐 Shell | 📅 2024-06-18 - Silm material-based cursor theme.
+* [Bibata](https://github.com/KaizIqbal/Bibata_Cursor) ⭐ 3,950 | 🐛 18 | 🌐 Shell | 📅 2024-06-18 - Silm material-based cursor theme.
 * [Capitaine Cursors](https://github.com/keeferrourke/capitaine-cursors) ⭐ 1,229 | 🐛 16 | 🌐 Python | 📅 2022-06-05 - An x-cursor theme inspired by macOS and based on KDE Breeze. Designed to be paired with La Capitaine icons.
 * [ComixCursors](https://www.gnome-look.org/p/999996) - X11 mouse theme with a comics feeling.
 
 ### Themes for non-GTK apps
 
-* [Firefox GNOME Theme](https://github.com/rafaelmardojai/firefox-gnome-theme) ⭐ 3,896 | 🐛 52 | 🌐 CSS | 📅 2026-07-09 - Integrate Firefox into GNOME-based desktop using Adwaita.
+* [Firefox GNOME Theme](https://github.com/rafaelmardojai/firefox-gnome-theme) ⭐ 3,897 | 🐛 52 | 🌐 CSS | 📅 2026-07-09 - Integrate Firefox into GNOME-based desktop using Adwaita.
 * [Adwaita for Steam](https://github.com/tkashkin/Adwaita-for-Steam) ⭐ 1,584 | 🐛 16 | 🌐 CSS | 📅 2026-08-02 - Skin to make Steam look more like a native GNOME app.
 * [Thunderbird GNOME Theme](https://github.com/rafaelmardojai/thunderbird-gnome-theme) ⭐ 422 | 🐛 9 | 🌐 CSS | 📅 2026-04-03 - Integrate Thunderbird into GNOME-based desktop using Adwaita.
-* [Adwaita theme for VS Code](https://github.com/piousdeer/vscode-adwaita) ⭐ 182 | 🐛 12 | 🌐 Python | 📅 2024-08-04 - Dark and light themes for VS Code based on GNOME's look and GNOME Builder's syntax highlighting.
+* [Adwaita theme for VS Code](https://github.com/piousdeer/vscode-adwaita) ⭐ 181 | 🐛 12 | 🌐 Python | 📅 2024-08-04 - Dark and light themes for VS Code based on GNOME's look and GNOME Builder's syntax highlighting.
 * [Discord GNOME Theme](https://github.com/ricewind012/discord-gnome-theme) ⭐ 170 | 🐛 4 | 🌐 SCSS | 📅 2026-08-19 - A GNOME theme for Discord, following the Adwaita style & GNOME Human Interface Guidelines.
 * [Obsidian Adwaita Theme](https://github.com/birneee/obsidian-adwaita-theme) ⭐ 162 | 🐛 16 | 🌐 CSS | 📅 2025-09-25 - [Obsidian](https://obsidian.md) theme in the style of GNOME Adwaita.
 
@@ -339,7 +339,7 @@
 ### Other lists
 
 * [Are we libadwaita yet](https://arewelibadwaitayet.com/) - List of libadwaita-powered apps
-* [Awesome-GTK](https://github.com/valpackett/awesome-gtk) ⭐ 1,266 | 🐛 3 | 🌐 Python | 📅 2026-08-22 - Collections of awesome native open-source GTK (4 and 3) applications.
+* [Awesome-GTK](https://github.com/valpackett/awesome-gtk) ⭐ 1,266 | 🐛 3 | 🌐 Python | 📅 2026-08-24 - Collections of awesome native open-source GTK (4 and 3) applications.
 
 ## Developer Resources
 
@@ -369,4 +369,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._

@@ -7,6 +7,50 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Netsleuth",
+              "description": "Utility for the calculation and analysis of IP subnet values.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 863030096,
+                "language": "Python",
+                "last_commit": "2026-07-19T06:55:47Z",
+                "owner": "vmkspv",
+                "repo": "netsleuth",
+                "stars": 55
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Internet and Networking"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Newelle",
+              "description": "Virtual assistant (local, based on GPT4All) that interacts with the system by running shell commands and execute Python code.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 652134847,
+                "language": "Python",
+                "last_commit": "2026-08-20T15:54:33Z",
+                "owner": "qwersyk",
+                "repo": "Newelle",
+                "stars": 1450
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Productivity and Time"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "AdwSteamGtk",
               "description": "Adwaita for Steam skin installer.",
               "children": [],
@@ -32,7 +76,7 @@
                 "last_commit": "2024-11-01T03:50:32Z",
                 "owner": "manishprivet",
                 "repo": "dynamic-gnome-wallpapers",
-                "stars": 502
+                "stars": 503
               }
             },
             {
@@ -54,6 +98,50 @@
           "description": null,
           "node_type": "group",
           "title": "System and Customization"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Lan Mouse",
+              "description": "Mouse and keyboard sharing software (software KVM switch).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 536802516,
+                "language": "Rust",
+                "last_commit": "2026-06-28T14:49:45Z",
+                "owner": "feschber",
+                "repo": "lan-mouse",
+                "stars": 5153
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Utilities"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Escambo",
+              "description": "HTTP-based APIs test application.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 537130375,
+                "language": "Python",
+                "last_commit": "2024-05-01T08:23:44Z",
+                "owner": "CleoMenezesJr",
+                "repo": "escambo",
+                "stars": 145
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Development and Design"
         }
       ],
       "title": "Applications"
@@ -77,7 +165,7 @@
                     "last_commit": "2026-08-19T03:14:54Z",
                     "owner": "somepaulo",
                     "repo": "MoreWaita",
-                    "stars": 1077
+                    "stars": 1078
                   }
                 },
                 {
@@ -107,13 +195,57 @@
                     "last_commit": "2023-03-03T11:56:10Z",
                     "owner": "Bonandry",
                     "repo": "adwaita-plus",
-                    "stars": 173
+                    "stars": 174
                   }
                 }
               ],
               "description": null,
               "node_type": "group",
               "title": "Upstream Style"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Papirus",
+                  "description": "Material icon theme, initially based on Paper.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 60187911,
+                    "language": "Shell",
+                    "last_commit": "2026-08-01T14:42:16Z",
+                    "owner": "PapirusDevelopmentTeam",
+                    "repo": "papirus-icon-theme",
+                    "stars": 8033
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Material Icons"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "La Capitaine",
+                  "description": "Icon inspired by macOS and Material Design guidelines.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 59041972,
+                    "language": "Shell",
+                    "last_commit": "2021-11-25T05:43:53Z",
+                    "owner": "keeferrourke",
+                    "repo": "la-capitaine-icon-theme",
+                    "stars": 1993
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Flat Icons"
             },
             {
               "children": [
@@ -166,6 +298,28 @@
               "description": null,
               "node_type": "group",
               "title": "Homogeneous Icons"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Elementary XFCE",
+                  "description": "Desktop-agnostic version of the icons of elementary OS.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 3290334,
+                    "language": "C",
+                    "last_commit": "2026-01-02T22:24:51Z",
+                    "owner": "shimmerproject",
+                    "repo": "elementary-xfce",
+                    "stars": 295
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Skeumorphic Icons"
             }
           ],
           "description": null,
@@ -186,7 +340,7 @@
                 "last_commit": "2024-06-18T04:05:14Z",
                 "owner": "ful1e5",
                 "repo": "Bibata_Cursor",
-                "stars": 3944
+                "stars": 3950
               }
             },
             {
@@ -223,7 +377,7 @@
                 "last_commit": "2026-07-09T04:20:06Z",
                 "owner": "rafaelmardojai",
                 "repo": "firefox-gnome-theme",
-                "stars": 3896
+                "stars": 3897
               }
             },
             {
@@ -268,7 +422,7 @@
                 "last_commit": "2024-08-04T16:26:50Z",
                 "owner": "piousdeer",
                 "repo": "vscode-adwaita",
-                "stars": 182
+                "stars": 181
               }
             },
             {
@@ -311,7 +465,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T19:54:11.801Z",
+    "last_updated": "2026-08-24T14:16:00.202Z",
     "original_repository": "Kazhnuz/awesome-gnome",
     "original_repository_id": 94427107,
     "original_repository_sha": "0924daf769d8fb08492b84e76b8d92a8f7e58dcf",
