@@ -39,7 +39,7 @@
                 "last_commit": "2026-08-25T15:20:38Z",
                 "owner": "qwersyk",
                 "repo": "Newelle",
-                "stars": 1450
+                "stars": 1449
               }
             }
           ],
@@ -61,7 +61,7 @@
                 "last_commit": "2026-08-02T00:15:56Z",
                 "owner": "tkashkin",
                 "repo": "Adwaita-for-Steam",
-                "stars": 1584
+                "stars": 1585
               }
             },
             {
@@ -113,7 +113,7 @@
                 "last_commit": "2026-06-28T14:49:45Z",
                 "owner": "feschber",
                 "repo": "lan-mouse",
-                "stars": 5160
+                "stars": 5168
               }
             }
           ],
@@ -162,10 +162,10 @@
                     "archived": false,
                     "id": 543632052,
                     "language": "Meson",
-                    "last_commit": "2026-08-25T03:16:19Z",
+                    "last_commit": "2026-08-26T11:45:35Z",
                     "owner": "somepaulo",
                     "repo": "MoreWaita",
-                    "stars": 1079
+                    "stars": 1081
                   }
                 },
                 {
@@ -217,7 +217,7 @@
                     "last_commit": "2026-08-01T14:42:16Z",
                     "owner": "PapirusDevelopmentTeam",
                     "repo": "papirus-icon-theme",
-                    "stars": 8036
+                    "stars": 8039
                   }
                 }
               ],
@@ -261,7 +261,7 @@
                     "last_commit": "2026-02-21T20:04:32Z",
                     "owner": "numixproject",
                     "repo": "numix-icon-theme-circle",
-                    "stars": 932
+                    "stars": 933
                   }
                 },
                 {
@@ -340,7 +340,7 @@
                 "last_commit": "2024-06-18T04:05:14Z",
                 "owner": "ful1e5",
                 "repo": "Bibata_Cursor",
-                "stars": 3956
+                "stars": 3959
               }
             },
             {
@@ -377,7 +377,7 @@
                 "last_commit": "2026-07-09T04:20:06Z",
                 "owner": "rafaelmardojai",
                 "repo": "firefox-gnome-theme",
-                "stars": 3896
+                "stars": 3897
               }
             },
             {
@@ -392,7 +392,7 @@
                 "last_commit": "2026-08-02T00:15:56Z",
                 "owner": "tkashkin",
                 "repo": "Adwaita-for-Steam",
-                "stars": 1584
+                "stars": 1585
               }
             },
             {
@@ -437,7 +437,7 @@
                 "last_commit": "2026-08-19T06:30:58Z",
                 "owner": "ricewind012",
                 "repo": "discord-gnome-theme",
-                "stars": 172
+                "stars": 173
               }
             },
             {
@@ -452,7 +452,7 @@
                 "last_commit": "2025-09-25T16:57:47Z",
                 "owner": "birneee",
                 "repo": "obsidian-adwaita-theme",
-                "stars": 162
+                "stars": 163
               }
             }
           ],
@@ -465,7 +465,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T20:00:01.982Z",
+    "last_updated": "2026-08-26T22:29:59.850Z",
     "original_repository": "Kazhnuz/awesome-gnome",
     "original_repository_id": 94427107,
     "original_repository_sha": "0924daf769d8fb08492b84e76b8d92a8f7e58dcf",
