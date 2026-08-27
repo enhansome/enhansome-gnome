@@ -113,7 +113,7 @@
                 "last_commit": "2026-06-28T14:49:45Z",
                 "owner": "feschber",
                 "repo": "lan-mouse",
-                "stars": 5168
+                "stars": 5172
               }
             }
           ],
@@ -162,7 +162,7 @@
                     "archived": false,
                     "id": 543632052,
                     "language": "Meson",
-                    "last_commit": "2026-08-26T11:45:35Z",
+                    "last_commit": "2026-08-27T01:23:36Z",
                     "owner": "somepaulo",
                     "repo": "MoreWaita",
                     "stars": 1081
@@ -217,7 +217,7 @@
                     "last_commit": "2026-08-01T14:42:16Z",
                     "owner": "PapirusDevelopmentTeam",
                     "repo": "papirus-icon-theme",
-                    "stars": 8039
+                    "stars": 8040
                   }
                 }
               ],
@@ -239,7 +239,7 @@
                     "last_commit": "2021-11-25T05:43:53Z",
                     "owner": "keeferrourke",
                     "repo": "la-capitaine-icon-theme",
-                    "stars": 1993
+                    "stars": 1994
                   }
                 }
               ],
@@ -377,7 +377,7 @@
                 "last_commit": "2026-07-09T04:20:06Z",
                 "owner": "rafaelmardojai",
                 "repo": "firefox-gnome-theme",
-                "stars": 3897
+                "stars": 3896
               }
             },
             {
@@ -434,7 +434,7 @@
                 "archived": false,
                 "id": 792720770,
                 "language": "SCSS",
-                "last_commit": "2026-08-19T06:30:58Z",
+                "last_commit": "2026-08-27T07:10:46Z",
                 "owner": "ricewind012",
                 "repo": "discord-gnome-theme",
                 "stars": 173
@@ -465,9 +465,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T22:29:59.850Z",
-    "original_repository": "Kazhnuz/awesome-gnome",
-    "original_repository_id": 94427107,
+    "last_updated": "2026-08-27T11:45:48.589Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 94427107,
+      "language": null,
+      "last_commit": "2025-12-27T16:49:32Z",
+      "owner": "Kazhnuz",
+      "repo": "awesome-gnome",
+      "stars": 1586
+    },
     "original_repository_sha": "0924daf769d8fb08492b84e76b8d92a8f7e58dcf",
     "enhanced_repository": "enhansome/enhansome-gnome",
     "enhanced_repository_description": null,
