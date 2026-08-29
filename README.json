@@ -18,7 +18,8 @@
                 "owner": "vmkspv",
                 "repo": "netsleuth",
                 "stars": 55
-              }
+              },
+              "first_seen": "2026-08-29T02:26:31.763Z"
             }
           ],
           "description": null,
@@ -39,8 +40,9 @@
                 "last_commit": "2026-08-25T15:20:38Z",
                 "owner": "qwersyk",
                 "repo": "Newelle",
-                "stars": 1449
-              }
+                "stars": 1451
+              },
+              "first_seen": "2026-08-29T02:26:31.763Z"
             }
           ],
           "description": null,
@@ -61,8 +63,9 @@
                 "last_commit": "2026-08-02T00:15:56Z",
                 "owner": "tkashkin",
                 "repo": "Adwaita-for-Steam",
-                "stars": 1585
-              }
+                "stars": 1587
+              },
+              "first_seen": "2026-08-29T02:26:31.763Z"
             },
             {
               "node_type": "item",
@@ -77,7 +80,8 @@
                 "owner": "manishprivet",
                 "repo": "dynamic-gnome-wallpapers",
                 "stars": 503
-              }
+              },
+              "first_seen": "2026-08-29T02:26:31.763Z"
             },
             {
               "node_type": "item",
@@ -92,7 +96,8 @@
                 "owner": "sidevesh",
                 "repo": "Luminance",
                 "stars": 177
-              }
+              },
+              "first_seen": "2026-08-29T02:26:31.763Z"
             }
           ],
           "description": null,
@@ -113,8 +118,9 @@
                 "last_commit": "2026-06-28T14:49:45Z",
                 "owner": "feschber",
                 "repo": "lan-mouse",
-                "stars": 5173
-              }
+                "stars": 5177
+              },
+              "first_seen": "2026-08-29T02:26:31.763Z"
             }
           ],
           "description": null,
@@ -136,7 +142,8 @@
                 "owner": "CleoMenezesJr",
                 "repo": "escambo",
                 "stars": 145
-              }
+              },
+              "first_seen": "2026-08-29T02:26:31.763Z"
             }
           ],
           "description": null,
@@ -165,8 +172,9 @@
                     "last_commit": "2026-08-27T01:23:36Z",
                     "owner": "somepaulo",
                     "repo": "MoreWaita",
-                    "stars": 1081
-                  }
+                    "stars": 1082
+                  },
+                  "first_seen": "2026-08-29T02:26:31.763Z"
                 },
                 {
                   "node_type": "item",
@@ -181,7 +189,8 @@
                     "owner": "pop-os",
                     "repo": "icon-theme",
                     "stars": 217
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:26:31.763Z"
                 },
                 {
                   "node_type": "item",
@@ -196,7 +205,8 @@
                     "owner": "Bonandry",
                     "repo": "adwaita-plus",
                     "stars": 174
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:26:31.763Z"
                 }
               ],
               "description": null,
@@ -217,8 +227,9 @@
                     "last_commit": "2026-08-01T14:42:16Z",
                     "owner": "PapirusDevelopmentTeam",
                     "repo": "papirus-icon-theme",
-                    "stars": 8040
-                  }
+                    "stars": 8042
+                  },
+                  "first_seen": "2026-08-29T02:26:31.763Z"
                 }
               ],
               "description": null,
@@ -240,7 +251,8 @@
                     "owner": "keeferrourke",
                     "repo": "la-capitaine-icon-theme",
                     "stars": 1994
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:26:31.763Z"
                 }
               ],
               "description": null,
@@ -262,7 +274,8 @@
                     "owner": "numixproject",
                     "repo": "numix-icon-theme-circle",
                     "stars": 933
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:26:31.763Z"
                 },
                 {
                   "node_type": "item",
@@ -277,7 +290,8 @@
                     "owner": "madmaxms",
                     "repo": "iconpack-obsidian",
                     "stars": 230
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:26:31.763Z"
                 },
                 {
                   "node_type": "item",
@@ -292,7 +306,8 @@
                     "owner": "numixproject",
                     "repo": "numix-icon-theme-square",
                     "stars": 176
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:26:31.763Z"
                 }
               ],
               "description": null,
@@ -314,7 +329,8 @@
                     "owner": "shimmerproject",
                     "repo": "elementary-xfce",
                     "stars": 295
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:26:31.763Z"
                 }
               ],
               "description": null,
@@ -340,8 +356,9 @@
                 "last_commit": "2024-06-18T04:05:14Z",
                 "owner": "ful1e5",
                 "repo": "Bibata_Cursor",
-                "stars": 3964
-              }
+                "stars": 3966
+              },
+              "first_seen": "2026-08-29T02:26:31.763Z"
             },
             {
               "node_type": "item",
@@ -356,7 +373,8 @@
                 "owner": "keeferrourke",
                 "repo": "capitaine-cursors",
                 "stars": 1229
-              }
+              },
+              "first_seen": "2026-08-29T02:26:31.763Z"
             }
           ],
           "description": null,
@@ -377,8 +395,9 @@
                 "last_commit": "2026-07-09T04:20:06Z",
                 "owner": "rafaelmardojai",
                 "repo": "firefox-gnome-theme",
-                "stars": 3897
-              }
+                "stars": 3898
+              },
+              "first_seen": "2026-08-29T02:26:31.763Z"
             },
             {
               "node_type": "item",
@@ -392,8 +411,9 @@
                 "last_commit": "2026-08-02T00:15:56Z",
                 "owner": "tkashkin",
                 "repo": "Adwaita-for-Steam",
-                "stars": 1585
-              }
+                "stars": 1587
+              },
+              "first_seen": "2026-08-29T02:26:31.763Z"
             },
             {
               "node_type": "item",
@@ -407,8 +427,9 @@
                 "last_commit": "2026-04-03T15:01:33Z",
                 "owner": "rafaelmardojai",
                 "repo": "thunderbird-gnome-theme",
-                "stars": 422
-              }
+                "stars": 423
+              },
+              "first_seen": "2026-08-29T02:26:31.763Z"
             },
             {
               "node_type": "item",
@@ -422,8 +443,9 @@
                 "last_commit": "2024-08-04T16:26:50Z",
                 "owner": "piousdeer",
                 "repo": "vscode-adwaita",
-                "stars": 181
-              }
+                "stars": 182
+              },
+              "first_seen": "2026-08-29T02:26:31.763Z"
             },
             {
               "node_type": "item",
@@ -437,8 +459,9 @@
                 "last_commit": "2026-08-27T07:10:46Z",
                 "owner": "ricewind012",
                 "repo": "discord-gnome-theme",
-                "stars": 173
-              }
+                "stars": 174
+              },
+              "first_seen": "2026-08-29T02:26:31.763Z"
             },
             {
               "node_type": "item",
@@ -453,7 +476,8 @@
                 "owner": "birneee",
                 "repo": "obsidian-adwaita-theme",
                 "stars": 163
-              }
+              },
+              "first_seen": "2026-08-29T02:26:31.763Z"
             }
           ],
           "description": null,
@@ -465,7 +489,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T03:51:33.737Z",
+    "last_updated": "2026-08-29T02:26:31.763Z",
     "original_repository_info": {
       "archived": false,
       "id": 94427107,
@@ -473,7 +497,7 @@
       "last_commit": "2025-12-27T16:49:32Z",
       "owner": "Kazhnuz",
       "repo": "awesome-gnome",
-      "stars": 1586
+      "stars": 1587
     },
     "original_repository_sha": "0924daf769d8fb08492b84e76b8d92a8f7e58dcf",
     "enhanced_repository": "enhansome/enhansome-gnome",
