@@ -12,12 +12,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple utility for the calculation and analysis of IP subnet values, designed to simplify network configuration tasks.",
+                "homepage": "https://flathub.org/apps/details/io.github.vmkspv.netsleuth",
                 "id": 863030096,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-07-19T06:55:47Z",
+                "open_issues": 1,
                 "owner": "vmkspv",
                 "repo": "netsleuth",
-                "stars": 55
+                "stars": 55,
+                "topics": [
+                  "gnome",
+                  "libadwaita",
+                  "linux"
+                ]
               },
               "first_seen": "2026-08-29T02:26:31.763Z"
             }
@@ -35,12 +44,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Newelle - Your Ultimate Virtual Assistant",
+                "homepage": "https://newelle.qsk.me",
                 "id": 652134847,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-25T15:20:38Z",
+                "open_issues": 21,
                 "owner": "qwersyk",
                 "repo": "Newelle",
-                "stars": 1451
+                "stars": 1451,
+                "topics": [
+                  "adwaita",
+                  "ai",
+                  "app",
+                  "gnome",
+                  "gtk",
+                  "gtk4",
+                  "linux"
+                ]
               },
               "first_seen": "2026-08-29T02:26:31.763Z"
             }
@@ -58,12 +80,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A skin to make Steam look more like a native GNOME app",
+                "homepage": null,
                 "id": 519730931,
                 "language": "CSS",
+                "license": "MIT",
                 "last_commit": "2026-08-02T00:15:56Z",
+                "open_issues": 16,
                 "owner": "tkashkin",
                 "repo": "Adwaita-for-Steam",
-                "stars": 1587
+                "stars": 1587,
+                "topics": [
+                  "adwaita",
+                  "gnome",
+                  "skin",
+                  "steam",
+                  "steam-skin"
+                ]
               },
               "first_seen": "2026-08-29T02:26:31.763Z"
             },
@@ -74,12 +107,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of awesome dynamic wallpapers for Gnome, and easy scripts to install them",
+                "homepage": "https://wallpapers.manishk.dev",
                 "id": 389251765,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2024-11-01T03:50:32Z",
+                "open_issues": 11,
                 "owner": "manishprivet",
                 "repo": "dynamic-gnome-wallpapers",
-                "stars": 503
+                "stars": 503,
+                "topics": [
+                  "dynamic-wallpapers",
+                  "gnome",
+                  "gnome-wallpaper",
+                  "hacktoberfest",
+                  "wallpapers"
+                ]
               },
               "first_seen": "2026-08-29T02:26:31.763Z"
             },
@@ -90,12 +134,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple GTK application to control brightness of displays including external displays supporting DDC/CI",
+                "homepage": null,
                 "id": 613245823,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-09T20:04:49Z",
+                "open_issues": 11,
                 "owner": "sidevesh",
                 "repo": "Luminance",
-                "stars": 177
+                "stars": 177,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:26:31.763Z"
             }
@@ -113,12 +162,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "mouse & keyboard sharing via LAN",
+                "homepage": null,
                 "id": 536802516,
                 "language": "Rust",
+                "license": "GPL-3.0",
                 "last_commit": "2026-06-28T14:49:45Z",
+                "open_issues": 131,
                 "owner": "feschber",
                 "repo": "lan-mouse",
-                "stars": 5177
+                "stars": 5177,
+                "topics": [
+                  "gplv3",
+                  "gtk4-rs",
+                  "hyprland",
+                  "keyboard-emulation",
+                  "kvm-switch",
+                  "lan",
+                  "libadwaita",
+                  "linux",
+                  "macos",
+                  "mouse-emulation",
+                  "open-source",
+                  "rust",
+                  "tcp",
+                  "udp",
+                  "wayland",
+                  "wayland-client",
+                  "windows",
+                  "wlroots"
+                ]
               },
               "first_seen": "2026-08-29T02:26:31.763Z"
             }
@@ -136,12 +209,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Escambo is an HTTP-based APIs test application for GNOME",
+                "homepage": "https://flathub.org/apps/io.github.cleomenezesjr.Escambo",
                 "id": 537130375,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2024-05-01T08:23:44Z",
+                "open_issues": 19,
                 "owner": "CleoMenezesJr",
                 "repo": "escambo",
-                "stars": 145
+                "stars": 145,
+                "topics": [
+                  "api-rest",
+                  "escambo",
+                  "gnome",
+                  "gtk4",
+                  "libadwaita",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-29T02:26:31.763Z"
             }
@@ -167,12 +252,29 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An expanded Adwaita-styled companion icon theme with extra icons for popular apps and MIME types to complement Gnome Shell's original icons.",
+                    "homepage": null,
                     "id": 543632052,
                     "language": "Meson",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-27T01:23:36Z",
+                    "open_issues": 84,
                     "owner": "somepaulo",
                     "repo": "MoreWaita",
-                    "stars": 1082
+                    "stars": 1082,
+                    "topics": [
+                      "adwaita",
+                      "adwaita-icon-theme",
+                      "archlinux",
+                      "fedora",
+                      "gnome",
+                      "gnome-shell",
+                      "icon-theme",
+                      "icons",
+                      "linux",
+                      "linux-mint",
+                      "ubuntu"
+                    ]
                   },
                   "first_seen": "2026-08-29T02:26:31.763Z"
                 },
@@ -183,12 +285,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "System76 Pop icon theme for Linux",
+                    "homepage": null,
                     "id": 180834019,
                     "language": "Python",
+                    "license": "CC-BY-SA-4.0",
                     "last_commit": "2024-10-01T16:46:38Z",
+                    "open_issues": 15,
                     "owner": "pop-os",
                     "repo": "icon-theme",
-                    "stars": 217
+                    "stars": 217,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T02:26:31.763Z"
                 },
@@ -199,12 +306,30 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "GNOME++, a third-party icons theme, based on new GNOME 3.32's Adwaita",
+                    "homepage": null,
                     "id": 181217249,
                     "language": "Shell",
+                    "license": "GPL-3.0",
                     "last_commit": "2023-03-03T11:56:10Z",
+                    "open_issues": 9,
                     "owner": "Bonandry",
                     "repo": "adwaita-plus",
-                    "stars": 174
+                    "stars": 174,
+                    "topics": [
+                      "adwaita",
+                      "adwaita-icon-theme",
+                      "gnome",
+                      "icon-theme",
+                      "icons",
+                      "linux",
+                      "linux-mint",
+                      "suru",
+                      "suru-icons",
+                      "suru-plus",
+                      "ubuntu",
+                      "yaru"
+                    ]
                   },
                   "first_seen": "2026-08-29T02:26:31.763Z"
                 }
@@ -222,12 +347,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Pixel perfect icon theme for Linux",
+                    "homepage": "https://git.io/papirus-icon-theme",
                     "id": 60187911,
                     "language": "Shell",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-01T14:42:16Z",
+                    "open_issues": 582,
                     "owner": "PapirusDevelopmentTeam",
                     "repo": "papirus-icon-theme",
-                    "stars": 8042
+                    "stars": 8042,
+                    "topics": [
+                      "icon-theme",
+                      "icons",
+                      "linux",
+                      "papirus",
+                      "papirus-icon-theme",
+                      "papirus-theme",
+                      "theme"
+                    ]
                   },
                   "first_seen": "2026-08-29T02:26:31.763Z"
                 }
@@ -245,12 +383,36 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "La Capitaine is an icon pack designed to integrate with most desktop environments. The set of icons takes inspiration from the latest iterations of macOS and Google's Material Design.",
+                    "homepage": "https://krourke.org/projects/art/la-capitaine-icon-theme",
                     "id": 59041972,
                     "language": "Shell",
+                    "license": "NOASSERTION",
                     "last_commit": "2021-11-25T05:43:53Z",
+                    "open_issues": 115,
                     "owner": "keeferrourke",
                     "repo": "la-capitaine-icon-theme",
-                    "stars": 1994
+                    "stars": 1994,
+                    "topics": [
+                      "breeze",
+                      "desktop-environment",
+                      "gnome",
+                      "gnome-theme-icons",
+                      "gnu-linux",
+                      "google-material",
+                      "gplv3",
+                      "human-interface",
+                      "icon-pack",
+                      "icon-theme",
+                      "icons",
+                      "kde",
+                      "la-capitaine",
+                      "linux",
+                      "macos",
+                      "material",
+                      "mit-license",
+                      "theme"
+                    ]
                   },
                   "first_seen": "2026-08-29T02:26:31.763Z"
                 }
@@ -268,12 +430,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Linux packaging for Numix Circle",
+                    "homepage": null,
                     "id": 64778796,
                     "language": null,
+                    "license": "GPL-3.0",
                     "last_commit": "2026-02-21T20:04:32Z",
+                    "open_issues": 5,
                     "owner": "numixproject",
                     "repo": "numix-icon-theme-circle",
-                    "stars": 933
+                    "stars": 933,
+                    "topics": [
+                      "android-icons",
+                      "icon-theme",
+                      "icons",
+                      "linux-icons",
+                      "macos-icons"
+                    ]
                   },
                   "first_seen": "2026-08-29T02:26:31.763Z"
                 },
@@ -284,12 +457,19 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Gnome Icon Pack based upon Faenza, optimized for dark themes",
+                    "homepage": null,
                     "id": 95468369,
                     "language": null,
+                    "license": "GPL-3.0",
                     "last_commit": "2021-06-03T17:56:11Z",
+                    "open_issues": 26,
                     "owner": "madmaxms",
                     "repo": "iconpack-obsidian",
-                    "stars": 230
+                    "stars": 230,
+                    "topics": [
+                      "icon-pack"
+                    ]
                   },
                   "first_seen": "2026-08-29T02:26:31.763Z"
                 },
@@ -300,12 +480,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Linux packaging for Numix Square",
+                    "homepage": null,
                     "id": 23260996,
                     "language": null,
+                    "license": "GPL-3.0",
                     "last_commit": "2026-02-21T20:01:31Z",
+                    "open_issues": 1,
                     "owner": "numixproject",
                     "repo": "numix-icon-theme-square",
-                    "stars": 176
+                    "stars": 176,
+                    "topics": [
+                      "android-icons",
+                      "icon-theme",
+                      "icons",
+                      "linux-icons",
+                      "macos-icons"
+                    ]
                   },
                   "first_seen": "2026-08-29T02:26:31.763Z"
                 }
@@ -323,12 +514,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Elementary icons forked from upstream, extended and maintained for Xfce",
+                    "homepage": null,
                     "id": 3290334,
                     "language": "C",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-01-02T22:24:51Z",
+                    "open_issues": 33,
                     "owner": "shimmerproject",
                     "repo": "elementary-xfce",
-                    "stars": 295
+                    "stars": 295,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T02:26:31.763Z"
                 }
@@ -351,12 +547,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open source, compact, and material designed cursor set.",
+                "homepage": "https://www.bibata.live",
                 "id": 108837747,
                 "language": "Shell",
+                "license": "GPL-3.0",
                 "last_commit": "2024-06-18T04:05:14Z",
+                "open_issues": 18,
                 "owner": "ful1e5",
                 "repo": "Bibata_Cursor",
-                "stars": 3966
+                "stars": 3967,
+                "topics": [
+                  "cursor",
+                  "linux",
+                  "theme",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-29T02:26:31.763Z"
             },
@@ -367,12 +573,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An x-cursor theme inspired by macOS and based on KDE Breeze. Designed to pair well with my icon pack, La Capitaine.",
+                "homepage": null,
                 "id": 63390178,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2022-06-05T13:11:37Z",
+                "open_issues": 16,
                 "owner": "keeferrourke",
                 "repo": "capitaine-cursors",
-                "stars": 1229
+                "stars": 1229,
+                "topics": [
+                  "breeze",
+                  "capitaine-cursors",
+                  "cursor-theme",
+                  "desktop-environment",
+                  "gnu-linux",
+                  "gnu-linux-theme",
+                  "kde",
+                  "kde-breeze",
+                  "rice",
+                  "svg-icons",
+                  "theme",
+                  "xcursor"
+                ]
               },
               "first_seen": "2026-08-29T02:26:31.763Z"
             }
@@ -390,12 +614,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A GNOME👣 theme for Firefox🔥",
+                "homepage": null,
                 "id": 189863872,
                 "language": "CSS",
+                "license": "Unlicense",
                 "last_commit": "2026-07-09T04:20:06Z",
+                "open_issues": 53,
                 "owner": "rafaelmardojai",
                 "repo": "firefox-gnome-theme",
-                "stars": 3898
+                "stars": 3898,
+                "topics": [
+                  "css",
+                  "firefox",
+                  "gnome",
+                  "gtk",
+                  "theme",
+                  "userchrome"
+                ]
               },
               "first_seen": "2026-08-29T02:26:31.763Z"
             },
@@ -406,12 +642,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A skin to make Steam look more like a native GNOME app",
+                "homepage": null,
                 "id": 519730931,
                 "language": "CSS",
+                "license": "MIT",
                 "last_commit": "2026-08-02T00:15:56Z",
+                "open_issues": 16,
                 "owner": "tkashkin",
                 "repo": "Adwaita-for-Steam",
-                "stars": 1587
+                "stars": 1587,
+                "topics": [
+                  "adwaita",
+                  "gnome",
+                  "skin",
+                  "steam",
+                  "steam-skin"
+                ]
               },
               "first_seen": "2026-08-29T02:26:31.763Z"
             },
@@ -422,12 +669,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": " A GNOME👣 theme for Thunderbird📨",
+                "homepage": null,
                 "id": 666205190,
                 "language": "CSS",
+                "license": "Unlicense",
                 "last_commit": "2026-04-03T15:01:33Z",
+                "open_issues": 9,
                 "owner": "rafaelmardojai",
                 "repo": "thunderbird-gnome-theme",
-                "stars": 423
+                "stars": 423,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:26:31.763Z"
             },
@@ -438,12 +690,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "VS Code theme for the GNOME desktop",
+                "homepage": null,
                 "id": 478238480,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-08-04T16:26:50Z",
+                "open_issues": 12,
                 "owner": "piousdeer",
                 "repo": "vscode-adwaita",
-                "stars": 182
+                "stars": 182,
+                "topics": [
+                  "adwaita",
+                  "gnome",
+                  "libadwaita",
+                  "vscode",
+                  "vscode-theme"
+                ]
               },
               "first_seen": "2026-08-29T02:26:31.763Z"
             },
@@ -454,12 +717,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 792720770,
                 "language": "SCSS",
+                "license": null,
                 "last_commit": "2026-08-27T07:10:46Z",
+                "open_issues": 4,
                 "owner": "ricewind012",
                 "repo": "discord-gnome-theme",
-                "stars": 174
+                "stars": 174,
+                "topics": [
+                  "adwaita",
+                  "discord",
+                  "discord-theme",
+                  "gnome",
+                  "gtk",
+                  "libadwaita"
+                ]
               },
               "first_seen": "2026-08-29T02:26:31.763Z"
             },
@@ -470,12 +745,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Obsidian theme in the style of Gnome Adwaita",
+                "homepage": null,
                 "id": 553567365,
                 "language": "CSS",
+                "license": "MIT",
                 "last_commit": "2025-09-25T16:57:47Z",
+                "open_issues": 16,
                 "owner": "birneee",
                 "repo": "obsidian-adwaita-theme",
-                "stars": 163
+                "stars": 163,
+                "topics": [
+                  "adwaita",
+                  "css",
+                  "gnome",
+                  "libadwaita",
+                  "obsidian-md",
+                  "theme"
+                ]
               },
               "first_seen": "2026-08-29T02:26:31.763Z"
             }
@@ -489,15 +776,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T02:26:31.763Z",
+    "last_updated": "2026-08-29T04:31:53.090Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome apps, extensions, modules, themes and tools for the Gnome Desktop Environment.",
+      "homepage": null,
       "id": 94427107,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2025-12-27T16:49:32Z",
+      "open_issues": 24,
       "owner": "Kazhnuz",
       "repo": "awesome-gnome",
-      "stars": 1587
+      "stars": 1588,
+      "topics": [
+        "applications",
+        "awesome",
+        "awesome-list",
+        "gnome",
+        "gnome-shell-extension"
+      ]
     },
     "original_repository_sha": "0924daf769d8fb08492b84e76b8d92a8f7e58dcf",
     "enhanced_repository": "enhansome/enhansome-gnome",
