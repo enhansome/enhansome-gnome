@@ -50,7 +50,7 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-01T14:28:52Z",
-                "open_issues": 23,
+                "open_issues": 24,
                 "owner": "qwersyk",
                 "repo": "Newelle",
                 "stars": 1466,
@@ -171,7 +171,7 @@
                 "open_issues": 136,
                 "owner": "feschber",
                 "repo": "lan-mouse",
-                "stars": 5252,
+                "stars": 5260,
                 "topics": [
                   "gplv3",
                   "gtk4-rs",
@@ -261,7 +261,7 @@
                     "open_issues": 80,
                     "owner": "somepaulo",
                     "repo": "MoreWaita",
-                    "stars": 1081,
+                    "stars": 1082,
                     "topics": [
                       "adwaita",
                       "adwaita-icon-theme",
@@ -392,7 +392,7 @@
                     "open_issues": 115,
                     "owner": "keeferrourke",
                     "repo": "la-capitaine-icon-theme",
-                    "stars": 1994,
+                    "stars": 1995,
                     "topics": [
                       "breeze",
                       "desktop-environment",
@@ -556,7 +556,7 @@
                 "open_issues": 18,
                 "owner": "ful1e5",
                 "repo": "Bibata_Cursor",
-                "stars": 4014,
+                "stars": 4017,
                 "topics": [
                   "cursor",
                   "linux",
@@ -623,7 +623,7 @@
                 "open_issues": 54,
                 "owner": "rafaelmardojai",
                 "repo": "firefox-gnome-theme",
-                "stars": 3901,
+                "stars": 3902,
                 "topics": [
                   "css",
                   "firefox",
@@ -696,7 +696,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2024-08-04T16:26:50Z",
-                "open_issues": 12,
+                "open_issues": 11,
                 "owner": "piousdeer",
                 "repo": "vscode-adwaita",
                 "stars": 183,
@@ -776,7 +776,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T21:56:36.263Z",
+    "last_updated": "2026-09-10T21:53:28.317Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome apps, extensions, modules, themes and tools for the Gnome Desktop Environment.",
@@ -788,7 +788,7 @@
       "open_issues": 24,
       "owner": "Kazhnuz",
       "repo": "awesome-gnome",
-      "stars": 1592,
+      "stars": 1595,
       "topics": [
         "applications",
         "awesome",
