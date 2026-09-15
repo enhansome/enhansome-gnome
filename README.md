@@ -48,7 +48,7 @@
 
 ### Internet and Networking
 
-* [Netsleuth](https://github.com/vmkspv/netsleuth) ⭐ 55 | 🐛 2 | 🌐 Python | 📅 2026-07-19 - Utility for the calculation and analysis of IP subnet values.
+* [Netsleuth](https://github.com/vmkspv/netsleuth) ⭐ 56 | 🐛 2 | 🌐 Python | 📅 2026-07-19 - Utility for the calculation and analysis of IP subnet values.
 * [GNOME Web](https://apps.gnome.org/Epiphany) - Official web browser project of GNOME. ![GNOME Core][GNOME Core]
 * [Fragments](https://apps.gnome.org/Fragments) - BitTorrent client. ![GNOME Circle][GNOME Circle]
 * [Newsflash](https://apps.gnome.org/NewsFlash) - RSS feeds reader. ![GNOME Circle][GNOME Circle]
@@ -164,7 +164,7 @@
 
 ### Utilities
 
-* [Lan Mouse](https://github.com/feschber/lan-mouse) ⭐ 5,276 | 🐛 137 | 🌐 Rust | 📅 2026-09-07 - Mouse and keyboard sharing software (software KVM switch).
+* [Lan Mouse](https://github.com/feschber/lan-mouse) ⭐ 5,279 | 🐛 138 | 🌐 Rust | 📅 2026-09-07 - Mouse and keyboard sharing software (software KVM switch).
 * [Dialect](https://apps.gnome.org/Dialect) - Translate text. ![GNOME Circle][GNOME Circle]
 * [Audio Sharing](https://apps.gnome.org/AudioSharing) - Share your computer audio. ![GNOME Circle][GNOME Circle]
 * [Boatswain](https://apps.gnome.org/Boatswain) - Control your Elgato Stream Decks. ![GNOME Circle][GNOME Circle]
@@ -272,13 +272,13 @@
 
 #### Upstream Style
 
-* [MoreWaita](https://github.com/somepaulo/MoreWaita) ⭐ 1,090 | 🐛 81 | 🌐 Meson | 📅 2026-09-13 - An Adwaita-style icon theme for Gnome Shell.
+* [MoreWaita](https://github.com/somepaulo/MoreWaita) ⭐ 1,092 | 🐛 81 | 🌐 Meson | 📅 2026-09-13 - An Adwaita-style icon theme for Gnome Shell.
 * [Pop!](https://github.com/pop-os/icon-theme) ⭐ 217 | 🐛 15 | 🌐 Python | 📅 2024-10-01 - Official icon theme of Pop!\_OS by System76.
 * [GNOME++](https://github.com/Bonandry/gnome-plus) ⭐ 175 | 🐛 9 | 🌐 Shell | 📅 2023-03-03 - Third-party application icons compatible with GNOME's current guidelines.
 
 #### Material Icons
 
-* [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) ⭐ 8,081 | 🐛 587 | 🌐 Shell | 📅 2026-08-01 - Material icon theme, initially based on Paper.
+* [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) ⭐ 8,080 | 🐛 587 | 🌐 Shell | 📅 2026-08-01 - Material icon theme, initially based on Paper.
 * [Paper](https://snwh.org/paper) - Material icon theme.
 
 #### Flat Icons
@@ -297,7 +297,7 @@
 
 ### Cursors
 
-* [Bibata](https://github.com/KaizIqbal/Bibata_Cursor) ⭐ 4,043 | 🐛 18 | 🌐 Shell | 📅 2024-06-18 - Silm material-based cursor theme.
+* [Bibata](https://github.com/KaizIqbal/Bibata_Cursor) ⭐ 4,078 | 🐛 18 | 🌐 Shell | 📅 2024-06-18 - Silm material-based cursor theme.
 * [Capitaine Cursors](https://github.com/keeferrourke/capitaine-cursors) ⭐ 1,235 | 🐛 16 | 🌐 Python | 📅 2022-06-05 - An x-cursor theme inspired by macOS and based on KDE Breeze. Designed to be paired with La Capitaine icons.
 * [ComixCursors](https://www.gnome-look.org/p/999996) - X11 mouse theme with a comics feeling.
 
@@ -369,4 +369,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._

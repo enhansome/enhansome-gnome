@@ -21,7 +21,7 @@
                 "open_issues": 2,
                 "owner": "vmkspv",
                 "repo": "netsleuth",
-                "stars": 55,
+                "stars": 56,
                 "topics": [
                   "gnome",
                   "libadwaita",
@@ -168,10 +168,10 @@
                 "language": "Rust",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-07T07:33:12Z",
-                "open_issues": 137,
+                "open_issues": 138,
                 "owner": "feschber",
                 "repo": "lan-mouse",
-                "stars": 5276,
+                "stars": 5279,
                 "topics": [
                   "gplv3",
                   "gtk4-rs",
@@ -261,7 +261,7 @@
                     "open_issues": 81,
                     "owner": "somepaulo",
                     "repo": "MoreWaita",
-                    "stars": 1090,
+                    "stars": 1092,
                     "topics": [
                       "adwaita",
                       "adwaita-icon-theme",
@@ -356,7 +356,7 @@
                     "open_issues": 587,
                     "owner": "PapirusDevelopmentTeam",
                     "repo": "papirus-icon-theme",
-                    "stars": 8081,
+                    "stars": 8080,
                     "topics": [
                       "icon-theme",
                       "icons",
@@ -556,7 +556,7 @@
                 "open_issues": 18,
                 "owner": "ful1e5",
                 "repo": "Bibata_Cursor",
-                "stars": 4043,
+                "stars": 4078,
                 "topics": [
                   "cursor",
                   "linux",
@@ -776,7 +776,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T22:44:59.476Z",
+    "last_updated": "2026-09-15T22:26:01.536Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome apps, extensions, modules, themes and tools for the Gnome Desktop Environment.",
@@ -788,7 +788,7 @@
       "open_issues": 24,
       "owner": "Kazhnuz",
       "repo": "awesome-gnome",
-      "stars": 1600,
+      "stars": 1601,
       "topics": [
         "applications",
         "awesome",
