@@ -49,7 +49,7 @@
                 "id": 652134847,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-14T11:07:52Z",
+                "last_commit": "2026-09-16T13:39:19Z",
                 "open_issues": 18,
                 "owner": "qwersyk",
                 "repo": "Newelle",
@@ -168,10 +168,10 @@
                 "language": "Rust",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-07T07:33:12Z",
-                "open_issues": 138,
+                "open_issues": 139,
                 "owner": "feschber",
                 "repo": "lan-mouse",
-                "stars": 5279,
+                "stars": 5285,
                 "topics": [
                   "gplv3",
                   "gtk4-rs",
@@ -257,11 +257,11 @@
                     "id": 543632052,
                     "language": "Meson",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-09-13T03:48:20Z",
-                    "open_issues": 81,
+                    "last_commit": "2026-09-16T19:41:29Z",
+                    "open_issues": 80,
                     "owner": "somepaulo",
                     "repo": "MoreWaita",
-                    "stars": 1092,
+                    "stars": 1094,
                     "topics": [
                       "adwaita",
                       "adwaita-icon-theme",
@@ -353,10 +353,10 @@
                     "language": "Shell",
                     "license": "GPL-3.0",
                     "last_commit": "2026-08-01T14:42:16Z",
-                    "open_issues": 587,
+                    "open_issues": 588,
                     "owner": "PapirusDevelopmentTeam",
                     "repo": "papirus-icon-theme",
-                    "stars": 8080,
+                    "stars": 8087,
                     "topics": [
                       "icon-theme",
                       "icons",
@@ -556,7 +556,7 @@
                 "open_issues": 18,
                 "owner": "ful1e5",
                 "repo": "Bibata_Cursor",
-                "stars": 4078,
+                "stars": 4090,
                 "topics": [
                   "cursor",
                   "linux",
@@ -726,7 +726,7 @@
                 "open_issues": 4,
                 "owner": "ricewind012",
                 "repo": "discord-gnome-theme",
-                "stars": 178,
+                "stars": 179,
                 "topics": [
                   "adwaita",
                   "discord",
@@ -776,7 +776,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T22:26:01.536Z",
+    "last_updated": "2026-09-16T22:18:46.311Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome apps, extensions, modules, themes and tools for the Gnome Desktop Environment.",
@@ -788,7 +788,7 @@
       "open_issues": 24,
       "owner": "Kazhnuz",
       "repo": "awesome-gnome",
-      "stars": 1601,
+      "stars": 1602,
       "topics": [
         "applications",
         "awesome",
