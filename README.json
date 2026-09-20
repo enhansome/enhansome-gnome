@@ -53,7 +53,7 @@
                 "open_issues": 20,
                 "owner": "qwersyk",
                 "repo": "Newelle",
-                "stars": 1473,
+                "stars": 1475,
                 "topics": [
                   "adwaita",
                   "ai",
@@ -89,7 +89,7 @@
                 "open_issues": 17,
                 "owner": "tkashkin",
                 "repo": "Adwaita-for-Steam",
-                "stars": 1593,
+                "stars": 1592,
                 "topics": [
                   "adwaita",
                   "gnome",
@@ -143,7 +143,7 @@
                 "open_issues": 11,
                 "owner": "sidevesh",
                 "repo": "Luminance",
-                "stars": 178,
+                "stars": 179,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:26:31.763Z"
@@ -168,10 +168,10 @@
                 "language": "Rust",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-19T09:12:24Z",
-                "open_issues": 142,
+                "open_issues": 143,
                 "owner": "feschber",
                 "repo": "lan-mouse",
-                "stars": 5297,
+                "stars": 5304,
                 "topics": [
                   "gplv3",
                   "gtk4-rs",
@@ -261,7 +261,7 @@
                     "open_issues": 81,
                     "owner": "somepaulo",
                     "repo": "MoreWaita",
-                    "stars": 1093,
+                    "stars": 1094,
                     "topics": [
                       "adwaita",
                       "adwaita-icon-theme",
@@ -356,7 +356,7 @@
                     "open_issues": 589,
                     "owner": "PapirusDevelopmentTeam",
                     "repo": "papirus-icon-theme",
-                    "stars": 8093,
+                    "stars": 8095,
                     "topics": [
                       "icon-theme",
                       "icons",
@@ -389,7 +389,7 @@
                     "language": "Shell",
                     "license": "NOASSERTION",
                     "last_commit": "2021-11-25T05:43:53Z",
-                    "open_issues": 115,
+                    "open_issues": 112,
                     "owner": "keeferrourke",
                     "repo": "la-capitaine-icon-theme",
                     "stars": 1996,
@@ -556,7 +556,7 @@
                 "open_issues": 18,
                 "owner": "ful1e5",
                 "repo": "Bibata_Cursor",
-                "stars": 4114,
+                "stars": 4121,
                 "topics": [
                   "cursor",
                   "linux",
@@ -620,7 +620,7 @@
                 "language": "CSS",
                 "license": "Unlicense",
                 "last_commit": "2026-07-09T04:20:06Z",
-                "open_issues": 55,
+                "open_issues": 57,
                 "owner": "rafaelmardojai",
                 "repo": "firefox-gnome-theme",
                 "stars": 3903,
@@ -651,7 +651,7 @@
                 "open_issues": 17,
                 "owner": "tkashkin",
                 "repo": "Adwaita-for-Steam",
-                "stars": 1593,
+                "stars": 1592,
                 "topics": [
                   "adwaita",
                   "gnome",
@@ -726,7 +726,7 @@
                 "open_issues": 3,
                 "owner": "ricewind012",
                 "repo": "discord-gnome-theme",
-                "stars": 179,
+                "stars": 178,
                 "topics": [
                   "adwaita",
                   "discord",
@@ -776,7 +776,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T21:44:54.540Z",
+    "last_updated": "2026-09-20T21:48:53.009Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome apps, extensions, modules, themes and tools for the Gnome Desktop Environment.",
@@ -788,7 +788,7 @@
       "open_issues": 24,
       "owner": "Kazhnuz",
       "repo": "awesome-gnome",
-      "stars": 1615,
+      "stars": 1616,
       "topics": [
         "applications",
         "awesome",
