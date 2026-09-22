@@ -17,7 +17,7 @@
                 "id": 863030096,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-21T08:45:01Z",
+                "last_commit": "2026-09-22T22:15:13Z",
                 "open_issues": 2,
                 "owner": "vmkspv",
                 "repo": "netsleuth",
@@ -168,10 +168,10 @@
                 "language": "Rust",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-21T11:24:09Z",
-                "open_issues": 142,
+                "open_issues": 144,
                 "owner": "feschber",
                 "repo": "lan-mouse",
-                "stars": 5305,
+                "stars": 5307,
                 "topics": [
                   "gplv3",
                   "gtk4-rs",
@@ -261,7 +261,7 @@
                     "open_issues": 82,
                     "owner": "somepaulo",
                     "repo": "MoreWaita",
-                    "stars": 1094,
+                    "stars": 1095,
                     "topics": [
                       "adwaita",
                       "adwaita-icon-theme",
@@ -356,7 +356,7 @@
                     "open_issues": 589,
                     "owner": "PapirusDevelopmentTeam",
                     "repo": "papirus-icon-theme",
-                    "stars": 8098,
+                    "stars": 8100,
                     "topics": [
                       "icon-theme",
                       "icons",
@@ -556,7 +556,7 @@
                 "open_issues": 18,
                 "owner": "ful1e5",
                 "repo": "Bibata_Cursor",
-                "stars": 4129,
+                "stars": 4133,
                 "topics": [
                   "cursor",
                   "linux",
@@ -582,7 +582,7 @@
                 "open_issues": 16,
                 "owner": "keeferrourke",
                 "repo": "capitaine-cursors",
-                "stars": 1239,
+                "stars": 1238,
                 "topics": [
                   "breeze",
                   "capitaine-cursors",
@@ -776,7 +776,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T22:48:41.836Z",
+    "last_updated": "2026-09-22T22:24:27.208Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome apps, extensions, modules, themes and tools for the Gnome Desktop Environment.",
