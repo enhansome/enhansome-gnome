@@ -18,7 +18,7 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-24T11:05:13Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "vmkspv",
                 "repo": "netsleuth",
                 "stars": 56,
@@ -49,11 +49,11 @@
                 "id": 652134847,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-16T13:39:19Z",
+                "last_commit": "2026-09-29T13:22:07Z",
                 "open_issues": 22,
                 "owner": "qwersyk",
                 "repo": "Newelle",
-                "stars": 1479,
+                "stars": 1481,
                 "topics": [
                   "adwaita",
                   "ai",
@@ -89,7 +89,7 @@
                 "open_issues": 18,
                 "owner": "tkashkin",
                 "repo": "Adwaita-for-Steam",
-                "stars": 1596,
+                "stars": 1597,
                 "topics": [
                   "adwaita",
                   "gnome",
@@ -168,10 +168,10 @@
                 "language": "Rust",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-26T12:11:08Z",
-                "open_issues": 144,
+                "open_issues": 146,
                 "owner": "feschber",
                 "repo": "lan-mouse",
-                "stars": 5326,
+                "stars": 5332,
                 "topics": [
                   "gplv3",
                   "gtk4-rs",
@@ -261,7 +261,7 @@
                     "open_issues": 83,
                     "owner": "somepaulo",
                     "repo": "MoreWaita",
-                    "stars": 1096,
+                    "stars": 1097,
                     "topics": [
                       "adwaita",
                       "adwaita-icon-theme",
@@ -356,7 +356,7 @@
                     "open_issues": 590,
                     "owner": "PapirusDevelopmentTeam",
                     "repo": "papirus-icon-theme",
-                    "stars": 8114,
+                    "stars": 8115,
                     "topics": [
                       "icon-theme",
                       "icons",
@@ -556,7 +556,7 @@
                 "open_issues": 19,
                 "owner": "ful1e5",
                 "repo": "Bibata_Cursor",
-                "stars": 4141,
+                "stars": 4142,
                 "topics": [
                   "cursor",
                   "linux",
@@ -623,7 +623,7 @@
                 "open_issues": 68,
                 "owner": "rafaelmardojai",
                 "repo": "firefox-gnome-theme",
-                "stars": 3905,
+                "stars": 3906,
                 "topics": [
                   "css",
                   "firefox",
@@ -651,7 +651,7 @@
                 "open_issues": 18,
                 "owner": "tkashkin",
                 "repo": "Adwaita-for-Steam",
-                "stars": 1596,
+                "stars": 1597,
                 "topics": [
                   "adwaita",
                   "gnome",
@@ -678,7 +678,7 @@
                 "open_issues": 9,
                 "owner": "rafaelmardojai",
                 "repo": "thunderbird-gnome-theme",
-                "stars": 423,
+                "stars": 424,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:26:31.763Z"
@@ -722,7 +722,7 @@
                 "id": 792720770,
                 "language": "SCSS",
                 "license": null,
-                "last_commit": "2026-09-19T18:31:50Z",
+                "last_commit": "2026-09-29T08:06:40Z",
                 "open_issues": 3,
                 "owner": "ricewind012",
                 "repo": "discord-gnome-theme",
@@ -776,7 +776,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T23:56:00.043Z",
+    "last_updated": "2026-09-29T23:11:11.149Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome apps, extensions, modules, themes and tools for the Gnome Desktop Environment.",
