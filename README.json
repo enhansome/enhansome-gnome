@@ -171,7 +171,7 @@
                 "open_issues": 145,
                 "owner": "feschber",
                 "repo": "lan-mouse",
-                "stars": 5337,
+                "stars": 5338,
                 "topics": [
                   "gplv3",
                   "gtk4-rs",
@@ -776,7 +776,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T23:15:09.734Z",
+    "last_updated": "2026-10-03T04:46:35.292Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome apps, extensions, modules, themes and tools for the Gnome Desktop Environment.",
