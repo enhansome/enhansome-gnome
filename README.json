@@ -50,10 +50,10 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-05T13:00:58Z",
-                "open_issues": 20,
+                "open_issues": 19,
                 "owner": "qwersyk",
                 "repo": "Newelle",
-                "stars": 1482,
+                "stars": 1483,
                 "topics": [
                   "adwaita",
                   "ai",
@@ -171,7 +171,7 @@
                 "open_issues": 148,
                 "owner": "feschber",
                 "repo": "lan-mouse",
-                "stars": 5339,
+                "stars": 5340,
                 "topics": [
                   "gplv3",
                   "gtk4-rs",
@@ -261,7 +261,7 @@
                     "open_issues": 74,
                     "owner": "somepaulo",
                     "repo": "MoreWaita",
-                    "stars": 1103,
+                    "stars": 1102,
                     "topics": [
                       "adwaita",
                       "adwaita-icon-theme",
@@ -356,7 +356,7 @@
                     "open_issues": 593,
                     "owner": "PapirusDevelopmentTeam",
                     "repo": "papirus-icon-theme",
-                    "stars": 8130,
+                    "stars": 8131,
                     "topics": [
                       "icon-theme",
                       "icons",
@@ -556,7 +556,7 @@
                 "open_issues": 19,
                 "owner": "ful1e5",
                 "repo": "Bibata_Cursor",
-                "stars": 4159,
+                "stars": 4164,
                 "topics": [
                   "cursor",
                   "linux",
@@ -620,10 +620,10 @@
                 "language": "CSS",
                 "license": "Unlicense",
                 "last_commit": "2026-10-04T22:39:06Z",
-                "open_issues": 58,
+                "open_issues": 59,
                 "owner": "rafaelmardojai",
                 "repo": "firefox-gnome-theme",
-                "stars": 3909,
+                "stars": 3912,
                 "topics": [
                   "css",
                   "firefox",
@@ -776,7 +776,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T00:56:37.074Z",
+    "last_updated": "2026-10-06T10:34:10.738Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome apps, extensions, modules, themes and tools for the Gnome Desktop Environment.",
