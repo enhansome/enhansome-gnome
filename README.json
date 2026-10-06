@@ -50,10 +50,10 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-05T13:00:58Z",
-                "open_issues": 19,
+                "open_issues": 21,
                 "owner": "qwersyk",
                 "repo": "Newelle",
-                "stars": 1483,
+                "stars": 1481,
                 "topics": [
                   "adwaita",
                   "ai",
@@ -171,7 +171,7 @@
                 "open_issues": 148,
                 "owner": "feschber",
                 "repo": "lan-mouse",
-                "stars": 5340,
+                "stars": 5346,
                 "topics": [
                   "gplv3",
                   "gtk4-rs",
@@ -261,7 +261,7 @@
                     "open_issues": 74,
                     "owner": "somepaulo",
                     "repo": "MoreWaita",
-                    "stars": 1102,
+                    "stars": 1103,
                     "topics": [
                       "adwaita",
                       "adwaita-icon-theme",
@@ -523,7 +523,7 @@
                     "open_issues": 29,
                     "owner": "shimmerproject",
                     "repo": "elementary-xfce",
-                    "stars": 297,
+                    "stars": 298,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:26:31.763Z"
@@ -556,7 +556,7 @@
                 "open_issues": 19,
                 "owner": "ful1e5",
                 "repo": "Bibata_Cursor",
-                "stars": 4164,
+                "stars": 4165,
                 "topics": [
                   "cursor",
                   "linux",
@@ -582,7 +582,7 @@
                 "open_issues": 16,
                 "owner": "keeferrourke",
                 "repo": "capitaine-cursors",
-                "stars": 1243,
+                "stars": 1244,
                 "topics": [
                   "breeze",
                   "capitaine-cursors",
@@ -619,11 +619,11 @@
                 "id": 189863872,
                 "language": "CSS",
                 "license": "Unlicense",
-                "last_commit": "2026-10-04T22:39:06Z",
-                "open_issues": 59,
+                "last_commit": "2026-10-06T14:26:52Z",
+                "open_issues": 55,
                 "owner": "rafaelmardojai",
                 "repo": "firefox-gnome-theme",
-                "stars": 3912,
+                "stars": 3917,
                 "topics": [
                   "css",
                   "firefox",
@@ -751,7 +751,7 @@
                 "language": "CSS",
                 "license": "MIT",
                 "last_commit": "2025-09-25T16:57:47Z",
-                "open_issues": 17,
+                "open_issues": 18,
                 "owner": "birneee",
                 "repo": "obsidian-adwaita-theme",
                 "stars": 163,
@@ -776,7 +776,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:34:10.738Z",
+    "last_updated": "2026-10-06T23:14:17.639Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome apps, extensions, modules, themes and tools for the Gnome Desktop Environment.",
