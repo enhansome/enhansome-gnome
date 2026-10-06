@@ -49,11 +49,11 @@
                 "id": 652134847,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-02T12:25:51Z",
-                "open_issues": 22,
+                "last_commit": "2026-10-05T13:00:58Z",
+                "open_issues": 20,
                 "owner": "qwersyk",
                 "repo": "Newelle",
-                "stars": 1481,
+                "stars": 1482,
                 "topics": [
                   "adwaita",
                   "ai",
@@ -143,7 +143,7 @@
                 "open_issues": 11,
                 "owner": "sidevesh",
                 "repo": "Luminance",
-                "stars": 179,
+                "stars": 178,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:26:31.763Z"
@@ -257,11 +257,11 @@
                     "id": 543632052,
                     "language": "Meson",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-02T07:23:27Z",
-                    "open_issues": 75,
+                    "last_commit": "2026-10-05T17:45:55Z",
+                    "open_issues": 74,
                     "owner": "somepaulo",
                     "repo": "MoreWaita",
-                    "stars": 1099,
+                    "stars": 1103,
                     "topics": [
                       "adwaita",
                       "adwaita-icon-theme",
@@ -356,7 +356,7 @@
                     "open_issues": 593,
                     "owner": "PapirusDevelopmentTeam",
                     "repo": "papirus-icon-theme",
-                    "stars": 8127,
+                    "stars": 8130,
                     "topics": [
                       "icon-theme",
                       "icons",
@@ -556,7 +556,7 @@
                 "open_issues": 19,
                 "owner": "ful1e5",
                 "repo": "Bibata_Cursor",
-                "stars": 4154,
+                "stars": 4159,
                 "topics": [
                   "cursor",
                   "linux",
@@ -619,11 +619,11 @@
                 "id": 189863872,
                 "language": "CSS",
                 "license": "Unlicense",
-                "last_commit": "2026-10-04T22:26:28Z",
-                "open_issues": 50,
+                "last_commit": "2026-10-04T22:39:06Z",
+                "open_issues": 58,
                 "owner": "rafaelmardojai",
                 "repo": "firefox-gnome-theme",
-                "stars": 3908,
+                "stars": 3909,
                 "topics": [
                   "css",
                   "firefox",
@@ -776,7 +776,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T22:31:08.498Z",
+    "last_updated": "2026-10-06T00:56:37.074Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome apps, extensions, modules, themes and tools for the Gnome Desktop Environment.",
