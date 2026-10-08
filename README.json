@@ -53,7 +53,7 @@
                 "open_issues": 21,
                 "owner": "qwersyk",
                 "repo": "Newelle",
-                "stars": 1481,
+                "stars": 1482,
                 "topics": [
                   "adwaita",
                   "ai",
@@ -168,10 +168,10 @@
                 "language": "Rust",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-26T12:11:08Z",
-                "open_issues": 148,
+                "open_issues": 151,
                 "owner": "feschber",
                 "repo": "lan-mouse",
-                "stars": 5349,
+                "stars": 5352,
                 "topics": [
                   "gplv3",
                   "gtk4-rs",
@@ -261,7 +261,7 @@
                     "open_issues": 74,
                     "owner": "somepaulo",
                     "repo": "MoreWaita",
-                    "stars": 1105,
+                    "stars": 1106,
                     "topics": [
                       "adwaita",
                       "adwaita-icon-theme",
@@ -356,7 +356,7 @@
                     "open_issues": 593,
                     "owner": "PapirusDevelopmentTeam",
                     "repo": "papirus-icon-theme",
-                    "stars": 8134,
+                    "stars": 8135,
                     "topics": [
                       "icon-theme",
                       "icons",
@@ -582,7 +582,7 @@
                 "open_issues": 16,
                 "owner": "keeferrourke",
                 "repo": "capitaine-cursors",
-                "stars": 1244,
+                "stars": 1245,
                 "topics": [
                   "breeze",
                   "capitaine-cursors",
@@ -619,11 +619,11 @@
                 "id": 189863872,
                 "language": "CSS",
                 "license": "Unlicense",
-                "last_commit": "2026-10-06T14:26:52Z",
-                "open_issues": 59,
+                "last_commit": "2026-10-08T21:10:36Z",
+                "open_issues": 52,
                 "owner": "rafaelmardojai",
                 "repo": "firefox-gnome-theme",
-                "stars": 3923,
+                "stars": 3921,
                 "topics": [
                   "css",
                   "firefox",
@@ -675,7 +675,7 @@
                 "language": "CSS",
                 "license": "Unlicense",
                 "last_commit": "2026-04-03T15:01:33Z",
-                "open_issues": 9,
+                "open_issues": 18,
                 "owner": "rafaelmardojai",
                 "repo": "thunderbird-gnome-theme",
                 "stars": 425,
@@ -722,7 +722,7 @@
                 "id": 792720770,
                 "language": "SCSS",
                 "license": null,
-                "last_commit": "2026-10-07T20:39:59Z",
+                "last_commit": "2026-10-08T15:10:00Z",
                 "open_issues": 3,
                 "owner": "ricewind012",
                 "repo": "discord-gnome-theme",
@@ -776,7 +776,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T23:48:47.360Z",
+    "last_updated": "2026-10-08T23:57:06.031Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome apps, extensions, modules, themes and tools for the Gnome Desktop Environment.",
