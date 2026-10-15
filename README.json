@@ -49,11 +49,11 @@
                 "id": 652134847,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-14T18:30:09Z",
+                "last_commit": "2026-10-15T15:20:33Z",
                 "open_issues": 21,
                 "owner": "qwersyk",
                 "repo": "Newelle",
-                "stars": 1485,
+                "stars": 1487,
                 "topics": [
                   "adwaita",
                   "ai",
@@ -171,7 +171,7 @@
                 "open_issues": 158,
                 "owner": "feschber",
                 "repo": "lan-mouse",
-                "stars": 5374,
+                "stars": 5376,
                 "topics": [
                   "gplv3",
                   "gtk4-rs",
@@ -261,7 +261,7 @@
                     "open_issues": 76,
                     "owner": "somepaulo",
                     "repo": "MoreWaita",
-                    "stars": 1114,
+                    "stars": 1115,
                     "topics": [
                       "adwaita",
                       "adwaita-icon-theme",
@@ -356,7 +356,7 @@
                     "open_issues": 597,
                     "owner": "PapirusDevelopmentTeam",
                     "repo": "papirus-icon-theme",
-                    "stars": 8143,
+                    "stars": 8147,
                     "topics": [
                       "icon-theme",
                       "icons",
@@ -520,7 +520,7 @@
                     "language": "C",
                     "license": "GPL-3.0",
                     "last_commit": "2026-09-27T09:10:53Z",
-                    "open_issues": 30,
+                    "open_issues": 31,
                     "owner": "shimmerproject",
                     "repo": "elementary-xfce",
                     "stars": 299,
@@ -556,7 +556,7 @@
                 "open_issues": 19,
                 "owner": "ful1e5",
                 "repo": "Bibata_Cursor",
-                "stars": 4187,
+                "stars": 4189,
                 "topics": [
                   "cursor",
                   "linux",
@@ -582,7 +582,7 @@
                 "open_issues": 16,
                 "owner": "keeferrourke",
                 "repo": "capitaine-cursors",
-                "stars": 1249,
+                "stars": 1248,
                 "topics": [
                   "breeze",
                   "capitaine-cursors",
@@ -623,7 +623,7 @@
                 "open_issues": 45,
                 "owner": "rafaelmardojai",
                 "repo": "firefox-gnome-theme",
-                "stars": 3922,
+                "stars": 3924,
                 "topics": [
                   "css",
                   "firefox",
@@ -678,7 +678,7 @@
                 "open_issues": 18,
                 "owner": "rafaelmardojai",
                 "repo": "thunderbird-gnome-theme",
-                "stars": 422,
+                "stars": 423,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:26:31.763Z"
@@ -776,7 +776,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T22:36:49.434Z",
+    "last_updated": "2026-10-15T22:39:55.280Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome apps, extensions, modules, themes and tools for the Gnome Desktop Environment.",
@@ -788,7 +788,7 @@
       "open_issues": 24,
       "owner": "Kazhnuz",
       "repo": "awesome-gnome",
-      "stars": 1622,
+      "stars": 1621,
       "topics": [
         "applications",
         "awesome",
