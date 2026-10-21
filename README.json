@@ -53,7 +53,7 @@
                 "open_issues": 22,
                 "owner": "qwersyk",
                 "repo": "Newelle",
-                "stars": 1490,
+                "stars": 1491,
                 "topics": [
                   "adwaita",
                   "ai",
@@ -116,7 +116,7 @@
                 "open_issues": 11,
                 "owner": "manishprivet",
                 "repo": "dynamic-gnome-wallpapers",
-                "stars": 519,
+                "stars": 518,
                 "topics": [
                   "dynamic-wallpapers",
                   "gnome",
@@ -171,7 +171,7 @@
                 "open_issues": 161,
                 "owner": "feschber",
                 "repo": "lan-mouse",
-                "stars": 5395,
+                "stars": 5403,
                 "topics": [
                   "gplv3",
                   "gtk4-rs",
@@ -258,10 +258,10 @@
                     "language": "Meson",
                     "license": "GPL-3.0",
                     "last_commit": "2026-10-18T22:33:23Z",
-                    "open_issues": 77,
+                    "open_issues": 78,
                     "owner": "somepaulo",
                     "repo": "MoreWaita",
-                    "stars": 1113,
+                    "stars": 1112,
                     "topics": [
                       "adwaita",
                       "adwaita-icon-theme",
@@ -353,10 +353,10 @@
                     "language": "Shell",
                     "license": "GPL-3.0",
                     "last_commit": "2026-09-21T12:46:33Z",
-                    "open_issues": 600,
+                    "open_issues": 601,
                     "owner": "PapirusDevelopmentTeam",
                     "repo": "papirus-icon-theme",
-                    "stars": 8160,
+                    "stars": 8159,
                     "topics": [
                       "icon-theme",
                       "icons",
@@ -439,7 +439,7 @@
                     "open_issues": 5,
                     "owner": "numixproject",
                     "repo": "numix-icon-theme-circle",
-                    "stars": 930,
+                    "stars": 931,
                     "topics": [
                       "android-icons",
                       "icon-theme",
@@ -489,7 +489,7 @@
                     "open_issues": 1,
                     "owner": "numixproject",
                     "repo": "numix-icon-theme-square",
-                    "stars": 176,
+                    "stars": 177,
                     "topics": [
                       "android-icons",
                       "icon-theme",
@@ -556,7 +556,7 @@
                 "open_issues": 19,
                 "owner": "ful1e5",
                 "repo": "Bibata_Cursor",
-                "stars": 4207,
+                "stars": 4211,
                 "topics": [
                   "cursor",
                   "linux",
@@ -623,7 +623,7 @@
                 "open_issues": 42,
                 "owner": "rafaelmardojai",
                 "repo": "firefox-gnome-theme",
-                "stars": 3922,
+                "stars": 3921,
                 "topics": [
                   "css",
                   "firefox",
@@ -695,11 +695,11 @@
                 "id": 792720770,
                 "language": "SCSS",
                 "license": null,
-                "last_commit": "2026-10-18T09:23:02Z",
+                "last_commit": "2026-10-21T09:38:42Z",
                 "open_issues": 4,
                 "owner": "ricewind012",
                 "repo": "discord-gnome-theme",
-                "stars": 188,
+                "stars": 189,
                 "topics": [
                   "adwaita",
                   "discord",
@@ -776,7 +776,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T22:39:09.524Z",
+    "last_updated": "2026-10-21T22:44:03.216Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome apps, extensions, modules, themes and tools for the Gnome Desktop Environment.",
