@@ -167,8 +167,8 @@
                 "id": 536802516,
                 "language": "Rust",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-26T12:11:08Z",
-                "open_issues": 162,
+                "last_commit": "2026-10-25T15:13:29Z",
+                "open_issues": 152,
                 "owner": "feschber",
                 "repo": "lan-mouse",
                 "stars": 5414,
@@ -261,7 +261,7 @@
                     "open_issues": 79,
                     "owner": "somepaulo",
                     "repo": "MoreWaita",
-                    "stars": 1113,
+                    "stars": 1112,
                     "topics": [
                       "adwaita",
                       "adwaita-icon-theme",
@@ -294,7 +294,7 @@
                     "open_issues": 15,
                     "owner": "pop-os",
                     "repo": "icon-theme",
-                    "stars": 220,
+                    "stars": 219,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:26:31.763Z"
@@ -356,7 +356,7 @@
                     "open_issues": 602,
                     "owner": "PapirusDevelopmentTeam",
                     "repo": "papirus-icon-theme",
-                    "stars": 8165,
+                    "stars": 8167,
                     "topics": [
                       "icon-theme",
                       "icons",
@@ -392,7 +392,7 @@
                     "open_issues": 112,
                     "owner": "keeferrourke",
                     "repo": "la-capitaine-icon-theme",
-                    "stars": 1997,
+                    "stars": 1998,
                     "topics": [
                       "breeze",
                       "desktop-environment",
@@ -439,7 +439,7 @@
                     "open_issues": 5,
                     "owner": "numixproject",
                     "repo": "numix-icon-theme-circle",
-                    "stars": 931,
+                    "stars": 932,
                     "topics": [
                       "android-icons",
                       "icon-theme",
@@ -556,7 +556,7 @@
                 "open_issues": 19,
                 "owner": "ful1e5",
                 "repo": "Bibata_Cursor",
-                "stars": 4218,
+                "stars": 4221,
                 "topics": [
                   "cursor",
                   "linux",
@@ -776,7 +776,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T21:52:21.922Z",
+    "last_updated": "2026-10-25T22:02:06.107Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome apps, extensions, modules, themes and tools for the Gnome Desktop Environment.",
@@ -788,7 +788,7 @@
       "open_issues": 25,
       "owner": "Kazhnuz",
       "repo": "awesome-gnome",
-      "stars": 1624,
+      "stars": 1627,
       "topics": [
         "applications",
         "awesome",

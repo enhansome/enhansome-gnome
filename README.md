@@ -164,7 +164,7 @@
 
 ### Utilities
 
-* [Lan Mouse](https://github.com/feschber/lan-mouse) ⭐ 5,414 | 🐛 162 | 🌐 Rust | 📅 2026-09-26 - Mouse and keyboard sharing software (software KVM switch).
+* [Lan Mouse](https://github.com/feschber/lan-mouse) ⭐ 5,414 | 🐛 152 | 🌐 Rust | 📅 2026-10-25 - Mouse and keyboard sharing software (software KVM switch).
 * [Dialect](https://apps.gnome.org/Dialect) - Translate text. ![GNOME Circle][GNOME Circle]
 * [Audio Sharing](https://apps.gnome.org/AudioSharing) - Share your computer audio. ![GNOME Circle][GNOME Circle]
 * [Boatswain](https://apps.gnome.org/Boatswain) - Control your Elgato Stream Decks. ![GNOME Circle][GNOME Circle]
@@ -272,22 +272,22 @@
 
 #### Upstream Style
 
-* [MoreWaita](https://github.com/somepaulo/MoreWaita) ⭐ 1,113 | 🐛 79 | 🌐 Meson | 📅 2026-10-18 - An Adwaita-style icon theme for Gnome Shell.
-* [Pop!](https://github.com/pop-os/icon-theme) ⭐ 220 | 🐛 15 | 🌐 Python | 📅 2024-10-01 - Official icon theme of Pop!\_OS by System76.
+* [MoreWaita](https://github.com/somepaulo/MoreWaita) ⭐ 1,112 | 🐛 79 | 🌐 Meson | 📅 2026-10-18 - An Adwaita-style icon theme for Gnome Shell.
+* [Pop!](https://github.com/pop-os/icon-theme) ⭐ 219 | 🐛 15 | 🌐 Python | 📅 2024-10-01 - Official icon theme of Pop!\_OS by System76.
 * [GNOME++](https://github.com/Bonandry/gnome-plus) ⭐ 177 | 🐛 9 | 🌐 Shell | 📅 2023-03-03 - Third-party application icons compatible with GNOME's current guidelines.
 
 #### Material Icons
 
-* [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) ⭐ 8,165 | 🐛 602 | 🌐 Shell | 📅 2026-09-21 - Material icon theme, initially based on Paper.
+* [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) ⭐ 8,167 | 🐛 602 | 🌐 Shell | 📅 2026-09-21 - Material icon theme, initially based on Paper.
 * [Paper](https://snwh.org/paper) - Material icon theme.
 
 #### Flat Icons
 
-* [La Capitaine](https://github.com/keeferrourke/la-capitaine-icon-theme) ⭐ 1,997 | 🐛 112 | 🌐 Shell | 📅 2021-11-25 - Icon inspired by macOS and Material Design guidelines.
+* [La Capitaine](https://github.com/keeferrourke/la-capitaine-icon-theme) ⭐ 1,998 | 🐛 112 | 🌐 Shell | 📅 2021-11-25 - Icon inspired by macOS and Material Design guidelines.
 
 #### Homogeneous Icons
 
-* [Numix Circle](https://github.com/numixproject/numix-icon-theme-circle) ⭐ 931 | 🐛 5 | 📅 2026-02-21 - Flat rounded icon theme.
+* [Numix Circle](https://github.com/numixproject/numix-icon-theme-circle) ⭐ 932 | 🐛 5 | 📅 2026-02-21 - Flat rounded icon theme.
 * [Obsidian](https://github.com/madmaxms/iconpack-obsidian) ⭐ 231 | 🐛 26 | 📅 2021-06-03 - Continuation of the famous Faenza theme.
 * [Numix Square](https://github.com/numixproject/numix-icon-theme-square) ⭐ 177 | 🐛 1 | 📅 2026-02-21 - Flat square icon theme.
 
@@ -297,7 +297,7 @@
 
 ### Cursors
 
-* [Bibata](https://github.com/KaizIqbal/Bibata_Cursor) ⭐ 4,218 | 🐛 19 | 🌐 Shell | 📅 2026-09-25 - Silm material-based cursor theme.
+* [Bibata](https://github.com/KaizIqbal/Bibata_Cursor) ⭐ 4,221 | 🐛 19 | 🌐 Shell | 📅 2026-09-25 - Silm material-based cursor theme.
 * [Capitaine Cursors](https://github.com/keeferrourke/capitaine-cursors) ⭐ 1,251 | 🐛 16 | 🌐 Python | 📅 2022-06-05 - An x-cursor theme inspired by macOS and based on KDE Breeze. Designed to be paired with La Capitaine icons.
 * [ComixCursors](https://www.gnome-look.org/p/999996) - X11 mouse theme with a comics feeling.
 
@@ -339,7 +339,7 @@
 ### Other lists
 
 * [Are we libadwaita yet](https://arewelibadwaitayet.com/) - List of libadwaita-powered apps
-* [Awesome-GTK](https://github.com/valpackett/awesome-gtk) ⭐ 1,270 | 🐛 5 | 🌐 Python | 📅 2026-10-17 - Collections of awesome native open-source GTK (4 and 3) applications.
+* [Awesome-GTK](https://github.com/valpackett/awesome-gtk) ⭐ 1,270 | 🐛 5 | 🌐 Python | 📅 2026-10-25 - Collections of awesome native open-source GTK (4 and 3) applications.
 
 ## Developer Resources
 
@@ -369,4 +369,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
