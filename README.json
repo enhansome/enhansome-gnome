@@ -89,7 +89,7 @@
                 "open_issues": 18,
                 "owner": "tkashkin",
                 "repo": "Adwaita-for-Steam",
-                "stars": 1609,
+                "stars": 1610,
                 "topics": [
                   "adwaita",
                   "gnome",
@@ -171,7 +171,7 @@
                 "open_issues": 156,
                 "owner": "feschber",
                 "repo": "lan-mouse",
-                "stars": 5432,
+                "stars": 5438,
                 "topics": [
                   "gplv3",
                   "gtk4-rs",
@@ -261,7 +261,7 @@
                     "open_issues": 80,
                     "owner": "somepaulo",
                     "repo": "MoreWaita",
-                    "stars": 1116,
+                    "stars": 1117,
                     "topics": [
                       "adwaita",
                       "adwaita-icon-theme",
@@ -294,7 +294,7 @@
                     "open_issues": 15,
                     "owner": "pop-os",
                     "repo": "icon-theme",
-                    "stars": 220,
+                    "stars": 221,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:26:31.763Z"
@@ -356,7 +356,7 @@
                     "open_issues": 605,
                     "owner": "PapirusDevelopmentTeam",
                     "repo": "papirus-icon-theme",
-                    "stars": 8182,
+                    "stars": 8185,
                     "topics": [
                       "icon-theme",
                       "icons",
@@ -556,7 +556,7 @@
                 "open_issues": 19,
                 "owner": "ful1e5",
                 "repo": "Bibata_Cursor",
-                "stars": 4234,
+                "stars": 4238,
                 "topics": [
                   "cursor",
                   "linux",
@@ -651,7 +651,7 @@
                 "open_issues": 18,
                 "owner": "tkashkin",
                 "repo": "Adwaita-for-Steam",
-                "stars": 1609,
+                "stars": 1610,
                 "topics": [
                   "adwaita",
                   "gnome",
@@ -695,7 +695,7 @@
                 "id": 792720770,
                 "language": "SCSS",
                 "license": null,
-                "last_commit": "2026-10-29T09:29:56Z",
+                "last_commit": "2026-10-30T19:05:05Z",
                 "open_issues": 4,
                 "owner": "ricewind012",
                 "repo": "discord-gnome-theme",
@@ -776,7 +776,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T23:34:35.508Z",
+    "last_updated": "2026-10-30T23:13:06.386Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome apps, extensions, modules, themes and tools for the Gnome Desktop Environment.",
