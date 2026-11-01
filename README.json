@@ -167,11 +167,11 @@
                 "id": 536802516,
                 "language": "Rust",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-31T19:21:30Z",
-                "open_issues": 156,
+                "last_commit": "2026-11-01T13:44:38Z",
+                "open_issues": 157,
                 "owner": "feschber",
                 "repo": "lan-mouse",
-                "stars": 5447,
+                "stars": 5448,
                 "topics": [
                   "gplv3",
                   "gtk4-rs",
@@ -261,7 +261,7 @@
                     "open_issues": 81,
                     "owner": "somepaulo",
                     "repo": "MoreWaita",
-                    "stars": 1117,
+                    "stars": 1118,
                     "topics": [
                       "adwaita",
                       "adwaita-icon-theme",
@@ -352,11 +352,11 @@
                     "id": 60187911,
                     "language": "Shell",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-09-21T12:46:33Z",
-                    "open_issues": 608,
+                    "last_commit": "2026-11-01T20:35:29Z",
+                    "open_issues": 602,
                     "owner": "PapirusDevelopmentTeam",
                     "repo": "papirus-icon-theme",
-                    "stars": 8187,
+                    "stars": 8188,
                     "topics": [
                       "icon-theme",
                       "icons",
@@ -392,7 +392,7 @@
                     "open_issues": 112,
                     "owner": "keeferrourke",
                     "repo": "la-capitaine-icon-theme",
-                    "stars": 1998,
+                    "stars": 1999,
                     "topics": [
                       "breeze",
                       "desktop-environment",
@@ -556,7 +556,7 @@
                 "open_issues": 19,
                 "owner": "ful1e5",
                 "repo": "Bibata_Cursor",
-                "stars": 4243,
+                "stars": 4248,
                 "topics": [
                   "cursor",
                   "linux",
@@ -699,7 +699,7 @@
                 "open_issues": 4,
                 "owner": "ricewind012",
                 "repo": "discord-gnome-theme",
-                "stars": 192,
+                "stars": 191,
                 "topics": [
                   "adwaita",
                   "discord",
@@ -776,7 +776,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T22:48:53.752Z",
+    "last_updated": "2026-11-01T23:04:01.025Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome apps, extensions, modules, themes and tools for the Gnome Desktop Environment.",
@@ -788,7 +788,7 @@
       "open_issues": 25,
       "owner": "Kazhnuz",
       "repo": "awesome-gnome",
-      "stars": 1631,
+      "stars": 1632,
       "topics": [
         "applications",
         "awesome",
