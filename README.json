@@ -50,10 +50,10 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-11-11T09:55:12Z",
-                "open_issues": 23,
+                "open_issues": 20,
                 "owner": "qwersyk",
                 "repo": "Newelle",
-                "stars": 1501,
+                "stars": 1503,
                 "topics": [
                   "adwaita",
                   "ai",
@@ -85,11 +85,11 @@
                 "id": 519730931,
                 "language": "CSS",
                 "license": "MIT",
-                "last_commit": "2026-08-02T00:15:56Z",
-                "open_issues": 20,
+                "last_commit": "2026-11-16T02:48:38Z",
+                "open_issues": 21,
                 "owner": "tkashkin",
                 "repo": "Adwaita-for-Steam",
-                "stars": 1610,
+                "stars": 1611,
                 "topics": [
                   "adwaita",
                   "gnome",
@@ -168,10 +168,10 @@
                 "language": "Rust",
                 "license": "GPL-3.0",
                 "last_commit": "2026-11-01T13:44:38Z",
-                "open_issues": 168,
+                "open_issues": 171,
                 "owner": "feschber",
                 "repo": "lan-mouse",
-                "stars": 5493,
+                "stars": 5490,
                 "topics": [
                   "gplv3",
                   "gtk4-rs",
@@ -261,7 +261,7 @@
                     "open_issues": 125,
                     "owner": "somepaulo",
                     "repo": "MoreWaita",
-                    "stars": 1123,
+                    "stars": 1125,
                     "topics": [
                       "adwaita",
                       "adwaita-icon-theme",
@@ -353,10 +353,10 @@
                     "language": "Shell",
                     "license": "GPL-3.0",
                     "last_commit": "2026-11-09T13:13:31Z",
-                    "open_issues": 609,
+                    "open_issues": 610,
                     "owner": "PapirusDevelopmentTeam",
                     "repo": "papirus-icon-theme",
-                    "stars": 8212,
+                    "stars": 8214,
                     "topics": [
                       "icon-theme",
                       "icons",
@@ -489,7 +489,7 @@
                     "open_issues": 1,
                     "owner": "numixproject",
                     "repo": "numix-icon-theme-square",
-                    "stars": 178,
+                    "stars": 179,
                     "topics": [
                       "android-icons",
                       "icon-theme",
@@ -556,7 +556,7 @@
                 "open_issues": 19,
                 "owner": "ful1e5",
                 "repo": "Bibata_Cursor",
-                "stars": 4288,
+                "stars": 4294,
                 "topics": [
                   "cursor",
                   "linux",
@@ -647,11 +647,11 @@
                 "id": 519730931,
                 "language": "CSS",
                 "license": "MIT",
-                "last_commit": "2026-08-02T00:15:56Z",
-                "open_issues": 20,
+                "last_commit": "2026-11-16T02:48:38Z",
+                "open_issues": 21,
                 "owner": "tkashkin",
                 "repo": "Adwaita-for-Steam",
-                "stars": 1610,
+                "stars": 1611,
                 "topics": [
                   "adwaita",
                   "gnome",
@@ -727,7 +727,7 @@
                 "open_issues": 11,
                 "owner": "piousdeer",
                 "repo": "vscode-adwaita",
-                "stars": 184,
+                "stars": 183,
                 "topics": [
                   "adwaita",
                   "gnome",
@@ -776,7 +776,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T23:30:48.360Z",
+    "last_updated": "2026-11-17T02:37:04.706Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome apps, extensions, modules, themes and tools for the Gnome Desktop Environment.",
