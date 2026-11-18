@@ -143,7 +143,7 @@
 
 ### System and Customization
 
-* [AdwSteamGtk](https://flathub.org/apps/io.github.Foldex.AdwSteamGtk) - [Adwaita for Steam](https://github.com/tkashkin/Adwaita-for-Steam) ⭐ 1,611 | 🐛 21 | 🌐 CSS | 📅 2026-11-16 skin installer.
+* [AdwSteamGtk](https://flathub.org/apps/io.github.Foldex.AdwSteamGtk) - [Adwaita for Steam](https://github.com/tkashkin/Adwaita-for-Steam) ⭐ 1,611 | 🐛 14 | 🌐 CSS | 📅 2026-11-18 skin installer.
 * [Dynamic Gnome Wallpapers](https://github.com/manishprivet/dynamic-gnome-wallpapers) ⭐ 523 | 🐛 11 | 🌐 Shell | 📅 2024-11-01 - Gallery of MacOS like dynamic wallpapers, and easy scripts to install them
 * [Luminance](https://github.com/sidevesh/Luminance) ⭐ 184 | 🐛 12 | 🌐 C | 📅 2026-08-09 - Simple application to control brightness of displays (including external) supporting DDC/CI.
 * [Pika Backup](https://apps.gnome.org/PikaBackup) - Simple backups based on borg. ![GNOME Circle][GNOME Circle]
@@ -164,7 +164,7 @@
 
 ### Utilities
 
-* [Lan Mouse](https://github.com/feschber/lan-mouse) ⭐ 5,490 | 🐛 171 | 🌐 Rust | 📅 2026-11-01 - Mouse and keyboard sharing software (software KVM switch).
+* [Lan Mouse](https://github.com/feschber/lan-mouse) ⭐ 5,495 | 🐛 171 | 🌐 Rust | 📅 2026-11-01 - Mouse and keyboard sharing software (software KVM switch).
 * [Dialect](https://apps.gnome.org/Dialect) - Translate text. ![GNOME Circle][GNOME Circle]
 * [Audio Sharing](https://apps.gnome.org/AudioSharing) - Share your computer audio. ![GNOME Circle][GNOME Circle]
 * [Boatswain](https://apps.gnome.org/Boatswain) - Control your Elgato Stream Decks. ![GNOME Circle][GNOME Circle]
@@ -272,13 +272,13 @@
 
 #### Upstream Style
 
-* [MoreWaita](https://github.com/somepaulo/MoreWaita) ⭐ 1,125 | 🐛 125 | 🌐 Meson | 📅 2026-11-12 - An Adwaita-style icon theme for Gnome Shell.
+* [MoreWaita](https://github.com/somepaulo/MoreWaita) ⭐ 1,125 | 🐛 128 | 🌐 Meson | 📅 2026-11-17 - An Adwaita-style icon theme for Gnome Shell.
 * [Pop!](https://github.com/pop-os/icon-theme) ⭐ 220 | 🐛 15 | 🌐 Python | 📅 2024-10-01 - Official icon theme of Pop!\_OS by System76.
 * [GNOME++](https://github.com/Bonandry/gnome-plus) ⭐ 178 | 🐛 9 | 🌐 Shell | 📅 2023-03-03 - Third-party application icons compatible with GNOME's current guidelines.
 
 #### Material Icons
 
-* [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) ⭐ 8,214 | 🐛 610 | 🌐 Shell | 📅 2026-11-09 - Material icon theme, initially based on Paper.
+* [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) ⭐ 8,216 | 🐛 610 | 🌐 Shell | 📅 2026-11-09 - Material icon theme, initially based on Paper.
 * [Paper](https://snwh.org/paper) - Material icon theme.
 
 #### Flat Icons
@@ -288,7 +288,7 @@
 #### Homogeneous Icons
 
 * [Numix Circle](https://github.com/numixproject/numix-icon-theme-circle) ⭐ 935 | 🐛 6 | 📅 2026-02-21 - Flat rounded icon theme.
-* [Obsidian](https://github.com/madmaxms/iconpack-obsidian) ⭐ 232 | 🐛 26 | 📅 2021-06-03 - Continuation of the famous Faenza theme.
+* [Obsidian](https://github.com/madmaxms/iconpack-obsidian) ⭐ 233 | 🐛 26 | 📅 2021-06-03 - Continuation of the famous Faenza theme.
 * [Numix Square](https://github.com/numixproject/numix-icon-theme-square) ⭐ 179 | 🐛 1 | 📅 2026-02-21 - Flat square icon theme.
 
 #### Skeumorphic Icons
@@ -297,14 +297,14 @@
 
 ### Cursors
 
-* [Bibata](https://github.com/KaizIqbal/Bibata_Cursor) ⭐ 4,294 | 🐛 19 | 🌐 Shell | 📅 2026-09-25 - Silm material-based cursor theme.
-* [Capitaine Cursors](https://github.com/keeferrourke/capitaine-cursors) ⭐ 1,259 | 🐛 17 | 🌐 Python | 📅 2022-06-05 - An x-cursor theme inspired by macOS and based on KDE Breeze. Designed to be paired with La Capitaine icons.
+* [Bibata](https://github.com/KaizIqbal/Bibata_Cursor) ⭐ 4,295 | 🐛 19 | 🌐 Shell | 📅 2026-09-25 - Silm material-based cursor theme.
+* [Capitaine Cursors](https://github.com/keeferrourke/capitaine-cursors) ⭐ 1,260 | 🐛 17 | 🌐 Python | 📅 2022-06-05 - An x-cursor theme inspired by macOS and based on KDE Breeze. Designed to be paired with La Capitaine icons.
 * [ComixCursors](https://www.gnome-look.org/p/999996) - X11 mouse theme with a comics feeling.
 
 ### Themes for non-GTK apps
 
-* [Firefox GNOME Theme](https://github.com/rafaelmardojai/firefox-gnome-theme) ⭐ 3,926 | 🐛 48 | 🌐 CSS | 📅 2026-10-19 - Integrate Firefox into GNOME-based desktop using Adwaita.
-* [Adwaita for Steam](https://github.com/tkashkin/Adwaita-for-Steam) ⭐ 1,611 | 🐛 21 | 🌐 CSS | 📅 2026-11-16 - Skin to make Steam look more like a native GNOME app.
+* [Firefox GNOME Theme](https://github.com/rafaelmardojai/firefox-gnome-theme) ⭐ 3,925 | 🐛 48 | 🌐 CSS | 📅 2026-10-19 - Integrate Firefox into GNOME-based desktop using Adwaita.
+* [Adwaita for Steam](https://github.com/tkashkin/Adwaita-for-Steam) ⭐ 1,611 | 🐛 14 | 🌐 CSS | 📅 2026-11-18 - Skin to make Steam look more like a native GNOME app.
 * [Thunderbird GNOME Theme](https://github.com/rafaelmardojai/thunderbird-gnome-theme) ⭐ 423 | 🐛 19 | 🌐 CSS | 📅 2026-04-03 - Integrate Thunderbird into GNOME-based desktop using Adwaita.
 * [Discord GNOME Theme](https://github.com/ricewind012/discord-gnome-theme) ⭐ 192 | 🐛 3 | 🌐 SCSS | 📅 2026-11-07 - A GNOME theme for Discord, following the Adwaita style & GNOME Human Interface Guidelines.
 * [Adwaita theme for VS Code](https://github.com/piousdeer/vscode-adwaita) ⭐ 183 | 🐛 11 | 🌐 Python | 📅 2024-08-04 - Dark and light themes for VS Code based on GNOME's look and GNOME Builder's syntax highlighting.
@@ -339,7 +339,7 @@
 ### Other lists
 
 * [Are we libadwaita yet](https://arewelibadwaitayet.com/) - List of libadwaita-powered apps
-* [Awesome-GTK](https://github.com/valpackett/awesome-gtk) ⭐ 1,278 | 🐛 10 | 🌐 Python | 📅 2026-11-08 - Collections of awesome native open-source GTK (4 and 3) applications.
+* [Awesome-GTK](https://github.com/valpackett/awesome-gtk) ⭐ 1,278 | 🐛 12 | 🌐 Python | 📅 2026-11-08 - Collections of awesome native open-source GTK (4 and 3) applications.
 
 ## Developer Resources
 
@@ -369,4 +369,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
