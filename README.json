@@ -53,7 +53,7 @@
                 "open_issues": 19,
                 "owner": "qwersyk",
                 "repo": "Newelle",
-                "stars": 1502,
+                "stars": 1504,
                 "topics": [
                   "adwaita",
                   "ai",
@@ -89,7 +89,7 @@
                 "open_issues": 15,
                 "owner": "tkashkin",
                 "repo": "Adwaita-for-Steam",
-                "stars": 1610,
+                "stars": 1613,
                 "topics": [
                   "adwaita",
                   "gnome",
@@ -261,7 +261,7 @@
                     "open_issues": 129,
                     "owner": "somepaulo",
                     "repo": "MoreWaita",
-                    "stars": 1124,
+                    "stars": 1127,
                     "topics": [
                       "adwaita",
                       "adwaita-icon-theme",
@@ -556,7 +556,7 @@
                 "open_issues": 19,
                 "owner": "ful1e5",
                 "repo": "Bibata_Cursor",
-                "stars": 4300,
+                "stars": 4302,
                 "topics": [
                   "cursor",
                   "linux",
@@ -651,7 +651,7 @@
                 "open_issues": 15,
                 "owner": "tkashkin",
                 "repo": "Adwaita-for-Steam",
-                "stars": 1610,
+                "stars": 1613,
                 "topics": [
                   "adwaita",
                   "gnome",
@@ -776,7 +776,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T01:26:10.382Z",
+    "last_updated": "2026-11-21T00:57:03.949Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome apps, extensions, modules, themes and tools for the Gnome Desktop Environment.",
@@ -785,7 +785,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2025-12-27T16:49:32Z",
-      "open_issues": 27,
+      "open_issues": 28,
       "owner": "Kazhnuz",
       "repo": "awesome-gnome",
       "stars": 1643,
