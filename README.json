@@ -49,8 +49,8 @@
                 "id": 652134847,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-19T18:13:20Z",
-                "open_issues": 20,
+                "last_commit": "2026-11-23T22:21:39Z",
+                "open_issues": 19,
                 "owner": "qwersyk",
                 "repo": "Newelle",
                 "stars": 1506,
@@ -89,7 +89,7 @@
                 "open_issues": 16,
                 "owner": "tkashkin",
                 "repo": "Adwaita-for-Steam",
-                "stars": 1616,
+                "stars": 1617,
                 "topics": [
                   "adwaita",
                   "gnome",
@@ -171,7 +171,7 @@
                 "open_issues": 171,
                 "owner": "feschber",
                 "repo": "lan-mouse",
-                "stars": 5509,
+                "stars": 5511,
                 "topics": [
                   "gplv3",
                   "gtk4-rs",
@@ -353,10 +353,10 @@
                     "language": "Shell",
                     "license": "GPL-3.0",
                     "last_commit": "2026-11-22T00:17:19Z",
-                    "open_issues": 612,
+                    "open_issues": 613,
                     "owner": "PapirusDevelopmentTeam",
                     "repo": "papirus-icon-theme",
-                    "stars": 8221,
+                    "stars": 8225,
                     "topics": [
                       "icon-theme",
                       "icons",
@@ -439,7 +439,7 @@
                     "open_issues": 6,
                     "owner": "numixproject",
                     "repo": "numix-icon-theme-circle",
-                    "stars": 938,
+                    "stars": 939,
                     "topics": [
                       "android-icons",
                       "icon-theme",
@@ -556,7 +556,7 @@
                 "open_issues": 20,
                 "owner": "ful1e5",
                 "repo": "Bibata_Cursor",
-                "stars": 4308,
+                "stars": 4314,
                 "topics": [
                   "cursor",
                   "linux",
@@ -651,7 +651,7 @@
                 "open_issues": 16,
                 "owner": "tkashkin",
                 "repo": "Adwaita-for-Steam",
-                "stars": 1616,
+                "stars": 1617,
                 "topics": [
                   "adwaita",
                   "gnome",
@@ -776,7 +776,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T00:28:18.639Z",
+    "last_updated": "2026-11-24T04:26:07.711Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome apps, extensions, modules, themes and tools for the Gnome Desktop Environment.",
@@ -785,10 +785,10 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2025-12-27T16:49:32Z",
-      "open_issues": 28,
+      "open_issues": 27,
       "owner": "Kazhnuz",
       "repo": "awesome-gnome",
-      "stars": 1644,
+      "stars": 1645,
       "topics": [
         "applications",
         "awesome",
