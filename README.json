@@ -49,8 +49,8 @@
                 "id": 652134847,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-25T21:22:45Z",
-                "open_issues": 19,
+                "last_commit": "2026-11-26T15:44:50Z",
+                "open_issues": 18,
                 "owner": "qwersyk",
                 "repo": "Newelle",
                 "stars": 1507,
@@ -171,7 +171,7 @@
                 "open_issues": 173,
                 "owner": "feschber",
                 "repo": "lan-mouse",
-                "stars": 5520,
+                "stars": 5525,
                 "topics": [
                   "gplv3",
                   "gtk4-rs",
@@ -353,7 +353,7 @@
                     "language": "Shell",
                     "license": "GPL-3.0",
                     "last_commit": "2026-11-22T00:17:19Z",
-                    "open_issues": 614,
+                    "open_issues": 616,
                     "owner": "PapirusDevelopmentTeam",
                     "repo": "papirus-icon-theme",
                     "stars": 8228,
@@ -556,7 +556,7 @@
                 "open_issues": 20,
                 "owner": "ful1e5",
                 "repo": "Bibata_Cursor",
-                "stars": 4318,
+                "stars": 4323,
                 "topics": [
                   "cursor",
                   "linux",
@@ -582,7 +582,7 @@
                 "open_issues": 17,
                 "owner": "keeferrourke",
                 "repo": "capitaine-cursors",
-                "stars": 1261,
+                "stars": 1260,
                 "topics": [
                   "breeze",
                   "capitaine-cursors",
@@ -696,7 +696,7 @@
                 "language": "SCSS",
                 "license": null,
                 "last_commit": "2026-11-07T08:57:03Z",
-                "open_issues": 3,
+                "open_issues": 4,
                 "owner": "ricewind012",
                 "repo": "discord-gnome-theme",
                 "stars": 192,
@@ -776,7 +776,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T02:26:03.623Z",
+    "last_updated": "2026-11-27T02:23:26.398Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome apps, extensions, modules, themes and tools for the Gnome Desktop Environment.",
